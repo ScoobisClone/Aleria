@@ -39,6 +39,14 @@ Combat Stances are passive combat postures that shape your approach to battle. Y
 - You gain a +2 bonus to attack rolls you make with ranged weapons.
 - While wielding a ranged weapon, you do not suffer disadvantage from being within 5 feet of a hostile creature.
 
+**Berserker Stance**
+- When you make a melee weapon attack, you gain a +2 bonus to attack rolls, but you suffer a -2 penalty to your AC.
+- While below half your maximum hit points, this bonus increases to +4 as well as the negative to -4.
+
+**Controlled Shot Stance**
+- When you hit with a two-handed ranged weapon, you can roll one additional damage die but must then choose one damage die to remove.
+- Additionally, while wielding a two-handed ranged weapon, you can ignore Half Cover when making ranged attacks.
+
 **Defense Stance**  
 - While wearing armor, you gain a +1 bonus to your Armor Class.
 - When you take the Dodge action, you may also make one weapon attack as part of that action.
@@ -85,6 +93,7 @@ Combat Stances are passive combat postures that shape your approach to battle. Y
 
 **Relocator Stance**
 - Whenever you hit with a weapon that has the Reach property, you may move the target up to 5-ft. closer to you if they were within 10-ft. of you or push them away if they were within 5-ft. of you.
+- When you move a creature in this way, opportunity attacks made against that creature by your allies have advantage until the start of your next turn.
 
 # Martial Masteries
 Martial Masteries represent advanced tactical maneuvers that you can develop to great mastery. Each Martial Mastery has a basic effect and three tiers of improvement: Focus, Specialization, and Ascendance. Each Martial Mastery applies to the same set of weapons as its Weapon Mastery of origin from the 2024 rules.
@@ -286,15 +295,20 @@ Saving Throw DC for Flourishes: If a Flourish requires a saving throw, the DC eq
 
 **Flourish: Bounce Back.** You throw the dagger in a way that it ricochets right back to your hand after being thrown. When you do so, perform a ranged attack roll on a target within its Thrown range, ignoring Partial Cover. Regardless of if you hit or miss, the weapon is flung back to you after hitting any surface. On a hit, the target takes an additional 1 stack of Bleed as the dagger twists on impact.
 
-#### Greatsword
-**Passive: Greatsword's Destruction.** A greatsword in your hands neglects the need for any shield, cutting through any attack with ease. Reduce any damage you take by 2 (this increases to 3 at 11th level, and 4 at 17th level). If the weapon has a bonus modifier to hit, add that to the damage reduction as well.
-
-**Flourish: Wide Arc.** You swing the greatsword to cover great arcs. Perform a melee attack roll against a target within reach. The result also counts as if it were targeting any other creatures 10 feet beside the original target. When you roll damage, you do so once for all targets hit. You have disadvantage on this attack if there are no other creatures adjacent to the original target.
-
 #### Gauntlets
 **Passive: Heavy Gauntlet's Dukes.** A good pair of Gauntlets easily help with maintaining an overall defensive stance. While wearing gauntlets, you gain a +1 bonus to your AC and a +1 bonus to Constitution saving throws.
 
 **Flourish: Breathless.** You deliver a particularly powerful punch to the target's lungs, beating the very air out of them. Perform a melee weapon attack against a target within reach. On a hit, they must pass a Constitution saving throw or have their movement speed halved and disadvantage on attack rolls until the end of their next turn.
+
+#### Greataxe
+**Passive: Brutal Momentum.** The greataxe is a weapon of raw, relentless power. When you hit a creature with a greataxe, you gain a +1 bonus to damage rolls with greataxe attacks against the same creature for the rest of your turn (max of +3). Additionally, when you reduce a creature to 0 hit points with a greataxe, you gain temporary hit points equal to your proficiency bonus.
+
+**Flourish: Sunder.** You bring your greataxe down in a devastating, armor shattering blow. Perform a melee weapon attack against a creature within your reach. On a hit, the target takes damage as normal and must make a Constitution saving throw. On a failure, the target's AC is reduced by 2 until the end of your next turn. The same enemy can not be sundered twice, and you can use this Flourish a number of times equal to your proficiency bonus per long rest.
+
+#### Greatsword
+**Passive: Greatsword's Destruction.** A greatsword in your hands neglects the need for any shield, cutting through any attack with ease. Reduce any damage you take by 2 (this increases to 3 at 11th level, and 4 at 17th level). If the weapon has a bonus modifier to hit, add that to the damage reduction as well.
+
+**Flourish: Wide Arc.** You swing the greatsword to cover great arcs. Perform a melee attack roll against a target within reach. The result also counts as if it were targeting any other creatures 10 feet beside the original target. When you roll damage, you do so once for all targets hit. You have disadvantage on this attack if there are no other creatures adjacent to the original target.
 
 #### Handaxe
 **Passive: Handaxe's Versatility.** The Handaxe is the perfect weapon to cover for any other arm's weakness. When you engage in Two-Weapon Fighting, you still add your full ability modifier to the damage of the Bonus Action attack (instead of half). Additionally, you gain a +1 bonus to attack rolls made with thrown handaxes.
@@ -345,6 +359,11 @@ Saving Throw DC for Flourishes: If a Flourish requires a saving throw, the DC eq
 **Passive: Close Quarters Blast.** A shotgun's true power emerges at close range. While wielding a shotgun, you gain a +1 bonus to attack rolls and a +1 bonus to damage rolls against targets within 15 feet of you. Additionally, you ignore Half Cover when attacking targets within this range.
 
 **Flourish: Clearing Shot.** As an action, you brace yourself and unleash a wide, devastating spray of pellets that fills a corridor. Each creature in a 15-foot cone originating from you must make a Dexterity saving throw. On a failure, they take your shotgun's normal damage + your Dexterity modifier and are pushed 10 feet away from you. On a success, they take half damage and are not pushed.
+
+#### Unarmed
+**Passive: Iron Fist.** Your body is a weapon honed through countless hours of training. Your unarmed strikes deal 1d8 bludgeoning damage instead of 1 + Strength modifier, or they go up by one dice level. Additionally, when you are not wearing armor or wielding a shield, you gain a +1 bonus to your AC.
+
+**Flourish: Pin.** You deliver a precise, punishing strike to a vital join or pressure point. Perform an unarmed attack against a creature within reach. On a hit, the target takes damage as normal and must make a Strength saving throw. On a failure, the target is restrained until the start of your next turn and has disadvantage on the saving throw to break free. On a success, the target is not restrained but has its movement speed halved until the end of its next turn. You can use this Flourish a number of times equal to your proficiency bonus per long rest.
 
 ### Weapon Groups
 For any weapon not directly named, refer to the Weapon Groups table below. A weapon counts as its group for determining which Weapon Mastery applies to it. For example, a Rapier counts as a Shortsword for its Flourish bonuses. (This table will shrink over time as more Weapon Masteries are made).
