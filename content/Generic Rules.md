@@ -17,7 +17,27 @@ If after cancelling advantages with disadvantages you are left with more than on
 
 ## Helping Others
 When you use the Help action to aid another character in a task, you must have proficiency in that Skill and make a DC 10 skill check with that skill. You cannot Help if you suffer disadvantage to the roll (such as from Exhaustion).
+Change it to be more of the following: **You can only use the _Help_ action if you’re proficient in the task _or_ if it’s a task that reasonably wouldn’t require proficiency (pushing a boulder).**
 
+## Expertise Dice
+When you have expertise in a skill, tool, or saving throw, you add your normal proficiency bonus plus an expertise die. The size of this die is determined by your character level, as shown in the table below:
+
+|**Character Level**|**Proficiency Bonus**|**Expertise Die**|
+|---|---|---|
+|1st–4th|+2|1d4|
+|5th–8th|+3|1d6|
+|9th–12th|+4|1d8|
+|13th–16th|+5|1d10|
+|17th–20th|+6|1d12|
+Whenever you make a d20 test that benefits from your expertise, you roll the d20, add the relevant ability modifier, add your flat proficiency bonus, and then add the result of your expertise die. For example, a 5th-level rogue with Expertise in Stealth (Dexterity 18) would roll 1d20 + 4 (Dexterity) + 3 (Proficiency) + 1d6 (Expertise). The total could range from 9 to 33.
+
+## Hit Points on Level Up
+Each time you gain a level, you may select one of the following methods to determine your new hit points:
+- **Roll the Die.** Roll your class's hit die and add your Constitution modifier to the result. The minimum increase is always 1 hit point, even if the total would be less.
+- **Take the Average.** Instead of rolling, you take the fixed average value of your hit die, rounded up, and add your Constitution modifier. The averages are: d6 = 4, d8 = 5, d10 = 6, and d12 = 7.
+
+
+# Inspiration and Heroism
 ## Inspiration Points
 Inspiration Points are earned by the whole party. The party can earn a number of points up to their party count per session and store points up to the number of players in the group+2 (This number may be set by the DM). The party must agree when and how to spend the Inspiration Points.
 
@@ -33,6 +53,26 @@ The party can spend an Inspiration Point anytime to:
 - reroll one Attack, Saving Throw or Attribute check by a player and choose between the two results. If a failure is turned into a success, it is a partial success that may come with unexpected complications
 - change the next Skill check by a player, if successful, to a exceptional success. If the roll is a failure, the Inspiration Point is wasted. Attack rolls cannot be changed to a critical hit.
 - have the DM roll twice when rolling on a random effect table and the party chooses one of the possible results
+- spend a number of points on one of the party's [[Team Up Attacks]]
+
+## Hero Points
+Each character begins play with a number of Hero Points equal to their level + 1. You regain one of these points at the beginning of every session as part of a sort of "login" reward. These points are separate from inspiration, which is now a team resource. However, an character may be awarded Hero Points at the Dungeon Masters discretion in a similar manner to how Inspiration Points work. A character can never have more Hero Points than their maximum (Level + 1). Additionally, a character can only spend one Hero Point per roll or action.
+
+A character can spend a Hero Point in one of the following ways:
+1. **Boost a Roll.** Before the Dungeon Master announces the result of an attack roll, saving throw, damage roll, or ability check, you may spend a Hero Point to roll an additional die and add the result to your total. The size of this die depends on your character level:
+
+|**Character Level**|**Hero Die**|
+|---|---|
+|1st–4th|1d4|
+|5th–8th|1d6|
+|9th–12th|1d8|
+|13th–16th|1d10|
+|17th–20th|1d12|
+
+This bonus does not stack with Bardic Inspiration; you must choose which die to add, and you cannot use both on the same roll.
+2. **Turn a Death Save Failure into a Success.** When you roll a failure on a death saving throw, you may spend a Hero Point to change that failure into a success. This can be done after seeing the roll but before the Dungeon Master resolves its effects.
+3. **Inspire an Ally.** As a bonus action on your turn, you may spend a Hero Point to grant a Hero Die (of a size appropriate to your level) to one ally you can see and that can hear you. The ally must use this die within the next 10 minutes, adding it to a single attack roll, saving throw, ability check, or damage roll of their choice before the result is announced. The ally does not need to spend their own Hero Point to use this die.
+
 
 # Exhaustion
 The Exhaustion condition covers all effects from casual exhaustion to life drain. These rules allow differentiation between normal fatigue and more dangerous effects.
