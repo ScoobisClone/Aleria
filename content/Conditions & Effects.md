@@ -76,7 +76,9 @@ A blessed creature regains 1d6 hit points at the beginning of its turns. The cre
 A burning creature is set ablaze constantly, taking an amount of d4 fire damage equal to the number of Burn stacks on itself at the end of their turn, then halving its total count. When at one Burn count, it extinguishes at the end of the creature's turn.
 
 ###### Butterfly
-Butterfly is a stacking debuff. At the end of the afflicted's turn, reduce the stack by half rounded down. The stack count determines the effects, with higher stack counts retaining the effects of lower stack counts unless otherwise specified. At 1-3 stacks, the creature has disadvantage on Wisdom saves against effects that cause RP loss or Mental Exhaustion. At 4-5 stacks, when taking psychic damage, the creature takes +1d4 psychic damage per stack (max +3d4) and increases RP damage taken by +1. At 6+ stacks, Mental Exhaustion cannot be reduced and RP damage taken is increased by +2 instead of +1.
+A creature suffering from Butterfly is suffering two-fold, having a deep-seated lament cocoon around their heart and a grief for the departed flutter out as a pain that can hardly be avoided. For the sake of ease, the Butterfly Condition is also spread in two parts, starting out as Butterfly (The Living) when first applied to a creature and then turning into Butterfly (The Departed) at the end of the afflicted's turn.
+**THE LIVING.** Overflowing with lament for those yet to perish, a creature suffering from this Condition suffers an equal amount of [[#Sorrow|Sorrow]] stacks as it's current (The Living) at the end of their turns, then turning any remaining (The Living) into (The Departed). Sorrow gained at the end of a creature's turn this way is applied after being halved as usual.
+**THE DEPARTED.** With grief unto death, any attack that inflicts Butterfly, Sorrow, reduces RP against the creatures deals an additional amount of psychic damage equal to half its current (The Departed) stacks, to a maximum value equal to the attacker's proficiency bonus. (The Departed) stack becomes 0 at the end of the afflicted's turn.
 
 ###### Chilled
 A chilled creature's speed is halved, and it has disadvantage on Strength and Dexterity saving throws and ability checks. Creatures that are immune or resistant to cold damage and cold effects, or those that do not need stamina for their movements or actions, are not affected by this condition.
@@ -170,6 +172,11 @@ A sick creature has disadvantage on Constitution checks and saving throws, and t
 
 ###### Slowed
 A slowed creature has its speed halved. Slowed creatures have their AC reduced by 2 while they are slowed, and have disadvantage on Dexterity saving throws. Slowed creatures can't use reactions, and can only use an action or bonus action on their turn, not both, and can never make more than one attack per turn. If a slowed creature attempts to cast a spell with a casting time of 1 action, it rolls a d12. On a 7 or higher, the spell doesn't take effect until the creature's next turn, and the creature must use its action on that turn to complete the spell. If it can't, the spell is wasted. Outside of spells, creatures are typically slowed by deep areas of water, sand, snow, or vegetation, losing the condition when they leave the area.
+
+###### Sorrow
+A creature that is Sorrow has trouble focusing on anything as a deep unease washes over them, making way for pure leg-shaking terror or difficulty performing what they must. While suffering Sorrow, the afflicted creature has their rolls to Hit reduced by a negative modifier  
+for each 3 Sorrow afflicted to them, to a maximum of -5. E.g: A creature with 12 stacks of Sorrow suffers a -4 penalty to Hit.  
+Additionally, that creature has their Wisdom Saving Throws reduced by a negative modifier for each 10 Sorrow, to a maximum of -3, and take +1 RP damage for each 5 Sorrow, to a maximum of +3. The stacks of Sinking are halved down at the end of the creature's turn, rounded up. When they have only one point remaining it is removed entirely instead.
 
 ###### Spasmic
 A spasmic creature is overcome with shaking and cannot take bonus actions or reactions. It has disadvantage on Strength and Dexterity saving throws and checks, and attack rolls that use either ability.
