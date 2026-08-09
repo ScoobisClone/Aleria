@@ -5,6 +5,7 @@ aliases:
 tags:
   - Lore
   - Homebrew
+  - Astrali
 ---
 # Generics
 Astrali are generally separated into different tiers based on the concept upon which they are based. Furthermore, there can be multiple Astrali with similar concepts and meanings, but this does not mean they belong to the same category as one another.
@@ -22,11 +23,21 @@ These cores come in what is usually a spherical shape with additional details ba
 
 # Codes
 [[The Third Accord]] is noted to have organized Astrali with codes in their facility[^1]. The classification rules[^2] were formatted and discussed below. It is to be noted that there are occasional additions to a code, such as a lowercase letter being assigned to sub-Astrali. 
-`XXX-XX-XXXX`
+`XXXX-XX-XXXX`
 
-#### 1 - Category and Danger
-**Category.** The first two characters in the code are for the first letter of the Astrali Category.
+#### 1 - Category, Containment Rating, and Danger Rating
+**Category.** The first character in the code is for the first letter of the Astrali Category, with nulls being listed via the Ø character.
 
+**Containment.** The second character in the code is reserved for the containment rating of an astrali. This rating came about as a result of the Third Accord having relocated itself to [[Sanyenia]], where the Grand Commissioner [[Eggbert The Colby]] ordered for the creation of this system. Each classification is as follows below:
+Primary
+- **Chiju.** This class of Astrali is reserved for Astrali that are deemed beneficial to the accord, such as hold helpful abilities or being able to assist in the containment of other astrali. Astrali of this tier are typically safer and of lower-risk. For helpful astrali that invoke a cost deemed more than its benefit, they will be placed in one of the below categories.
+- **Nigi.** These astrali are ones that are easily contained and does not hold worries for breaching containment. 
+- **Kunitsu.** These are astrali that do require more resources to keep contained and begin to hold risk of breaching. This classification is rather broad and, so far, holds the greatest amount of astrali.
+- **Amatsu.** The astrali here are hard to keep contained in any consistent manner, or reliable for that matter. As such, these astrali are expected to breach often as well as usually requiring strict procedures to try and maintain containment.
+- **Shuten.** These astrali are virtually impossible to keep contained, and should they ever be put into containment, breaching is an inevitability. Often times with these astrali, it is easier for the Third Accord to maintain watch than to focus on capture.
+- **Reiki.** While it is usually  in the best interest for the Third Accord to bring in astrali, the ones belonging to this rating are better left uncontained, for one reason or another. However, this does not mean that they are unable to be contained. 
+- **Tori.** Astrali here could be contained, but are not for a different set of reasons as to the Reiki rating. While Reiki are uncontained due to possible factors such as containing them causing more harm than good, Tori astrali are better left uncontained as a result of either ethical or logistical reasons.
+$_{\text{Note that a containment rating is not necessarily equate to a danger rating as a shuten astrali could recieve a low danger rating.}}$
 **Danger.** This is then followed by a two-character number that represents the deadliness of the Astrali, with higher numbers being more deadly. Originally, the Third Accord had left this a single character number to be used to represent how "friendly" (thus easy to research) an Astrali was; this was changed shortly before the fall of [Forn](Forn). It is assumed that this was a result of Forn pressuring the Third Accord to work on military applications of their research.
 
 A second reason this danger rating was created is also as a result of Astrali categories having been proven to be unreliable as an indicator of how much one must worry over the Astrali, considering how early into Astrali research the categories were made. Now, this danger rating is not a rating of raw strength, but more so the attention required by the Third Accord, thus not being completely accurate for non-researchers. Difficulty in containment will also increase an Astrali's danger rating. While there are no public papers on Astrali above a danger of 09, below are some explanations to provide further context to the ratings:
@@ -41,7 +52,7 @@ $_{\text{Note that these explanations may not be completely accurate for all Ast
 8. Should a confrontation begin, it will be nigh impossible to face Astrali of this tier without losing researchers, with some Astrali of this tier even requiring sacrifices as part of their gimmicks. If the rules of these Astrali are not to be followed, an even greater danger is expected to occur.
 9. There is very little that can be done about these Astrali. Rather than considering ways to "beat" the Astrali, it is simply better to consider ways to minimize losses to the Astrali.
 
-#### 2 - Shape and Will
+#### 2 - Shape and Will Rating
 These characters came about around the same time as the switch from friendliness to danger classification was made. The first is used to describe the general shape of the Astrali, with the second being used for the "will" of the Astrali. An Astrali's "will" refers to how much of a toll its respective [[Gifts]] or [[Extractions]] will take on a user, with a higher number representing a higher toll on a user.
 ```
 1 = Humanoid Form
