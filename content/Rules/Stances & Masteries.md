@@ -95,8 +95,36 @@ Combat Stances are passive combat postures that shape your approach to battle. Y
 - Whenever you hit with a weapon that has the Reach property, you may move the target up to 5-ft. closer to you if they were within 10-ft. of you or push them away if they were within 5-ft. of you.
 - When you move a creature in this way, opportunity attacks made against that creature by your allies have advantage until the start of your next turn.
 
+**Mounted Stance**
+- While mounted, your mount's walking speed increases by 10 feet, and it has advantage on saving throws to avoid being knocked prone or moved against its will.
+- While mounted and moving at least 10 feet in a straight line toward a target, your first melee attack against that target this turn deals an extra 1d6 damage.
+
+**Phalanx Stance**
+- While you are within 5 feet of at least one ally who is also wielding a shield or a Reach weapon, you gain a +1 bonus to AC.
+- When you and an ally are both within 5 feet of the same creature, you each gain a +1 bonus to attack rolls against that creature.
+
+**Parry Stance**
+- While wielding a finesse weapon in one hand and no other weapons, you gain a +1 bonus to AC.
+- When a creature misses you with a melee attack by 5 or more, you can use your reaction to shove it 5 feet away from you as well as use an opportunity attack.
+
+**Skirmisher Stance**
+- Your walking speed increases by 10 feet.
+- When you take the Disengage action, you can make one weapon attack as part of that action.
+
+**Bulwark Stance**
+- While wielding a shield, you gain a +1 bonus to AC.
+- When you take the Dodge action while wielding a shield, you gain resistance to damage from ranged weapon attacks until the start of your next turn.
+
+**Spellbreaker Stance**
+- When you hit a creature that is concentrating on a spell, that creature has disadvantage on the saving throw to maintain concentration.
+- When a creature within your reach casts a spell, you can use your reaction to make one melee weapon attack against it.
+
+**Dirty Fighter Stance**
+- You can use improvised weapons as if they were simple weapons you are proficient with, and you have advantage on attack rolls made with improvised weapons.
+- When you hit a creature that is prone, grappled, or restrained, you deal an extra 1d4 damage.
+
 # Martial Masteries
-Martial Masteries represent advanced tactical maneuvers that you can develop to great mastery. Each Martial Mastery has a basic effect and three tiers of improvement: Focus, Specialization, and Ascendance. Each Martial Mastery applies to the same set of weapons as its Weapon Mastery of origin from the 2024 rules.
+Martial Masteries represent advanced tactical maneuvers that you can develop to great mastery. Each Martial Mastery has a basic effect and three tiers of improvement: Focus, Specialization, and Ascendance. Each Martial Mastery applies to the same set of weapons as its Weapon Mastery of origin from the 2024 rules. If you do not know what those sets are, refer to the [[#Weapon Groups|table]] at the bottom.
 
 ### Acquiring and Upgrading Combat Masteries
 - You may spend 1 Mastery Point to learn the basic version of a Martial Mastery
@@ -220,6 +248,14 @@ Before you make a melee attack with a bludgeoning weapon, you can choose to take
 
 If the target takes damage, the target's movement speed is reduced by 10 until the end of its next turn. If its speed is reduced to 0 in this way, it immediately drops prone. Until the target recovers its movement speed to full, it cannot use the Dash, Disengage, or Dodge actions.
 
+#### Disarm **(Replace Attack)**
+You attempt to knock a weapon or held item from your opponent's grasp. Make an attack roll contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses which). If you succeed, the target drops one item of your choice that it is holding. The item lands in the target's space.
+
+If you have a free hand, you may instead catch the item as part of this maneuver.
+
+#### Misdirection **(Replace Attack)** _(Finesse)_
+You use feints, footwork, and weapon flourishes to misdirect a foe. Make a Charisma (Deception) check contested by the target's Passive Insight. If you succeed, you have advantage on your next attack roll against that target before the end of your next turn. If you fail, you have disadvantage on your next attack roll against that target, and you cannot attempt Misdirection against it again this encounter.
+
 ### Melee Reactions
 #### Counter **(Reaction)** _(Finesse or Parry)_
 When a creature misses you with a melee attack by 10 or more, you may use your reaction to perform a single melee attack against that creature. You cannot Counter while using the Dodge action.
@@ -239,11 +275,17 @@ When you are hit with a melee attack and you haven't moved during your last turn
 
 You cannot Give Ground while you are grappled by any creature, or knocked prone. You cannot Give Ground if you are already on, or would walk into, difficult terrain.
 
+#### Interpose **(Reaction)**
+When a creature within 5 feet of you is hit by an attack, you can use your reaction to throw yourself in harm's way. You become the target of the attack instead, using the same attack roll. You take the damage and any effects of the attack.
+
 ### Ranged Actions
 #### Aim **(Movement)** _(Ranged Weapon)_
 If your target hasn't moved during its previous turn, you can spend your movement to stand still, hold your breath, and aim with a ranged weapon. Until the end of this turn, your next ranged attack against that target has advantage.
 
 Aiming requires concentration. If you maintain spells requiring Concentration, Aiming causes them to end.
+
+#### Suppressing Fire **(Full Action)** _(Ranged Weapon)_
+You lay down a barrage of fire to keep heads down. Choose a 15-foot cube within your ranged weapon's normal range. Each creature in the area must make a Dexterity saving throw. On a failure, a creature has disadvantage on attack rolls and cannot take reactions until the end of its next turn.
 
 ### Movement Actions
 #### Charge **(Movement)** **(Full Action)**
@@ -270,6 +312,12 @@ If you have advantage over your target, you can make a special melee weapon atta
 While a creature is Restrained or Pinned by you, you may use half your movement to make a Grapple check against that creature in order to position it in such a way that it shields you from one or more hostile creatures that you are aware of. If the creature is of your size, it provides half cover and +2 AC. If the creature is one size larger than you, it provides three-quarters cover and +5 AC.
 
 If the creature you shield yourself with becomes stunned, paralyzed, or unconscious, when attacked make a Strength (Athletics) check at DC 15 plus 5 for each size category above yours. On a failure, you do not benefit from the cover.
+
+#### Taunt **(Replace Attack)**
+You goad a foe into focusing on you. Choose one creature within 30 feet of you that can see or hear you. Make a Charisma (Intimidation) check contested by the target's Wisdom (Insight). If you succeed, the target has disadvantage on attack rolls against creatures other than you until the end of its next turn.
+
+#### Rally **(Full Action)**
+You shout encouragement, issue a command, or simply refuse to fall. Choose up to three allies within 30 feet of you that can see or hear you. Each ally gains temporary hit points equal to your proficiency bonus + your Charisma modifier (minimum 1).
 
 # Weapon Masteries
 Weapon Masteries represent the pinnacle of specialized training with a specific weapon. Each Weapon Mastery is divided into two independent components: a passive and a flourish.
@@ -368,15 +416,38 @@ Saving Throw DC for Flourishes: If a Flourish requires a saving throw, the DC eq
 ### Weapon Groups
 For any weapon not directly named, refer to the Weapon Groups table below. A weapon counts as its group for determining which Weapon Mastery applies to it. For example, a Rapier counts as a Shortsword for its Flourish bonuses. (This table will shrink over time as more Weapon Masteries are made).
 
-| Weapon Group            | Weapons Included                     | Corresponding Mastery |
-| ----------------------- | ------------------------------------ | --------------------- |
-| **Axes**                | Battleaxe, Greataxe, Handaxe         | Handaxe               |
-| **Blades (Light)**      | Dagger, Shortsword, Scimitar, Rapier | Shortsword            |
-| **Blades (Heavy)**      | Greatsword, Longsword, Falchion      | Longsword             |
-| **Bludgeoning (Light)** | Light Hammer, Club, Mace             | Light Hammer          |
-| **Bludgeoning (Heavy)** | Greatclub, Maul, Morningstar         | Mace                  |
-| **Polearms**            | Halberd, Glaive, Pike, Lance         | Lance                 |
-| **Special**             | Katana, Heavy Gauntlets              | As listed above       |
+| Weapon Group             | Weapons Included                                             | Weapon Mastery | Martial Mastery |
+| ------------------------ | ------------------------------------------------------------ | -------------- | --------------- |
+| **Axes (Light)**         | Handaxe, Hatchet, Throwing Axe                               | Handaxe        | **Vex**         |
+| **Axes (Heavy)**         | Greataxe, Great Axe                                          | Greataxe       | **Cleave**      |
+|                          | Battleaxe (two-handed)                                       | Greataxe       | **Topple**      |
+| **Blades (Daggers)**     | Dagger, Dirk, Stiletto, Kukri                                | Dagger         | **Nick**        |
+| **Blades (Light)**       | Shortsword, Rapier, Saber, Cutlass                           | Shortsword     | **Vex**         |
+|                          | Scimitar                                                     | Shortsword     | **Nick**        |
+| **Blades (Heavy)**       | Longsword, Falchion, Bastard Sword (one-handed)              | Longsword      | **Sap**         |
+| **Blades (Great)**       | Greatsword, Claymore, Zweihänder, Bastard Sword (two-handed) | Greatsword     | **Graze**       |
+| **Blades (Curved)**      | Katana, Wakizashi, Tachi, Nodachi                            | Katana         | **Vex**         |
+| **Bludgeoning (Light)**  | Light Hammer, Throwing Hammer, Sap                           | Light Hammer   | **Nick**        |
+|                          | Club                                                         | Light Hammer   | **Slow**        |
+| **Bludgeoning (Medium)** | Mace, Morningstar, Flail, War Pick                           | Mace           | **Sap**         |
+|                          | Warhammer                                                    | Mace           | **Push**        |
+| **Bludgeoning (Heavy)**  | Maul, Sledgehammer                                           | Mace           | **Topple**      |
+|                          | Greatclub                                                    | Mace           | **Push**        |
+| **Polearms**             | Halberd                                                      | Lance          | **Cleave**      |
+|                          | Glaive                                                       | Lance          | **Graze**       |
+|                          | Pike                                                         | Lance          | **Push**        |
+|                          | Lance, Trident                                               | Lance          | **Topple**      |
+|                          | Spear                                                        | Lance          | **Sap**         |
+| **Bows**                 | Shortbow, Composite Bow, Recurve Bow                         | Bow            | **Vex**         |
+|                          | Longbow                                                      | Bow            | **Slow**        |
+| **Crossbows**            | Hand Crossbow                                                | Crossbow       | **Vex**         |
+|                          | Light Crossbow                                               | Crossbow       | **Slow**        |
+|                          | Heavy Crossbow                                               | Crossbow       | **Push**        |
+| **Firearms (Sidearm)**   | Revolver, Pistol                                             | Revolver       | **Vex**         |
+| **Firearms (Longarm)**   | Rifle, Musket                                                | Rifle          | **Slow**        |
+| **Firearms (Scatter)**   | Shotgun, Blunderbuss                                         | Shotgun        | **Push**        |
+| **Gauntlets**            | Heavy Gauntlets, Spiked Gauntlets, Cestus, Brass Knuckles    | Gauntlets      | **Topple**      |
+| **Unarmed**              | Fists, Kicks, Elbows, Knees, Natural Weapons                 | Unarmed        | **Push**        |
 # Rules Interactions & Overlaps
 ### Stacking Masteries
 You may apply one Martial Mastery and one Simple Mastery to the same attack roll provided:
