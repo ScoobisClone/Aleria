@@ -27,9 +27,9 @@ As for the reason there has been an increase in these individuals, it is a resul
 - [[Essentias|Essentia]]
 - [[Resonance]]. An innate gift typically provided by one's bloodline.
 - [[Harmonics]]. Rituals developed to allow for one to attune to an essentia.
-- [[Dissonance]]
-- [[Abstraction]]
+- [[Dissonance]]. Abnormalities to one's Vessel.
+- [[Abstraction]]. The ascended understanding of the self.
 - [[Synchronicity]]
-- [[Vessel Pour]]
-- [[Vessel Burst]]
+- [[Vessel Pour]]. To bring forth the self to reality.
+- [[Vessel Burst]]. To channel the inner self through oneself.
 - [[Engravings]]. One's journey in life made manifest.

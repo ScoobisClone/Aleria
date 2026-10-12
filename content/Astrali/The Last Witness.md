@@ -16,12 +16,12 @@ Code: ES06-17-5412
 **Classification Code:** ES06-17-5412
 **Tier:** Tier IV — Eidolon
 **Concept:** Observation without intervention
--
+
 **Containment Rating:** Shuten
 **Danger Rating:** 06/10
 **Will Rating:** 7/9
 **Shape Classification:** 1 — Humanoid Form
--
+
 
 ## Description
 ### Manifestation

@@ -152,6 +152,9 @@ plugins:
     enabled: true
   - source: github:quartz-community/explorer
     enabled: true
+    options:
+      useSavedState: false
+      folderClickBehavior: "link"
     layout:
       position: left
       priority: 50
@@ -160,6 +163,8 @@ plugins:
     layout:
       position: right
       priority: 10
+    options:
+      showTags: false
   - source: github:quartz-community/search
     enabled: true
     layout:
@@ -223,8 +228,7 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        Alerian Discord: https://discord.gg/GdztzJr93G
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
@@ -242,12 +246,9 @@ plugins:
   - source: github:quartz-community/note-properties
     enabled: true
     options:
-      includeAll: false
+      includeAll: true
       includedProperties:
-        - description
-        - tags
-        - aliases
-      excludedProperties: []
+      excludedProperties: [aliases, modified, title]
       hidePropertiesView: false
       delimiters: ---
       language: yaml

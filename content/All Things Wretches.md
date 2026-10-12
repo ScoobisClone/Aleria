@@ -23,24 +23,35 @@ A Wretch is a unique creature as no two are identical. They come as a result of 
 It is to be noted that the voice does not just pick anyone who is in a poor mental state as there appears to be a degree of strength and will required in the recipient. Currently, this is still all conjecture, and no further public information has been provided.
 
 ### Those that accept
-In the vast majority of cases, conversing with the Voice results in a wretch, warping the recipients body into facsimile of who they once were and who they believe to be. While in most may retain fragments of their original memories and speech, they ultimately remain beings driven by compulsions derived from the ails and emotions of their birth. 
+In the vast majority of cases, conversing with the Voice results in a Wretch, warping the recipient's body into facsimile of who they once were and who they believe to be. While in most may retain fragments of their original memories and speech, they ultimately remain beings driven by compulsions derived from the ails and emotions of their birth. 
 
-As for their strength, while one can generalize it based on the strength of the person a wretch was before, it is theorized that their original will and goals play a large part in their power as a wretch. 
+As for their strength, while one can generalize it based on the strength of the person a Wretch was before, it is theorized that their original will and goals play a large part in their power as a Wretch. 
 
-Now, a common trait amongst wretches is their destructive nature, intentional or not, as they remain in a state akin to that of a [[Vessel Pour]], transforming their nearby surroundings and potentially those that get caught up in their path. Yet another trait that results in their danger is that they hold the tendency to drain ambient [[Essentias]] or the essentia of those that lose their lives to the wretch, assumedly to sustain their malformed being.
+Now, a common trait amongst Wretches is their destructive nature, intentional or not, as they remain in a state akin to that of a [[Vessel Pour]], transforming their nearby surroundings and potentially those that get caught up in their path. Yet another trait that results in their danger is that they hold the tendency to drain ambient [[Essentias]] or the essentia of those that lose their lives to the Wretch, assumedly to sustain their malformed being.
 
-Something that must be kept in mind when dealing with wretches would be that their presence can create wretches out of others in a more forcible manner. However, it would appear that there is about an 80% chance that those who undergo this more forced process become what the Third Accord has dubbed as **Delirium**[^7]. Delirium are significantly weaker creatures compared to the parent wretch but take on similar shapes (or, at the very least, similar themes) to their parent. These delirium then begin to unconditionally follow the will of their parent as though they were familiars. 
+Something that must be kept in mind when dealing with Wretches would be that their presence can create Wretches out of others in a more forcible manner. However, it would appear that there is about an 80% chance that those who undergo this more forced process become what the Third Accord has dubbed as **Delirium**[^7]. Delirium are significantly weaker creatures compared to the parent Wretch but take on similar shapes (or, at the very least, similar themes) to their parent. These delirium then begin to unconditionally follow the will of their parent as though they were familiars. 
 
 ### Those that deny
-As for the small minority that do not become a wretch, those few manage to resist the lull of the Voice and **Bloom**[^6], resulting in them obtaining a Vessel Pour. Furthermore, those that recover from wretching hold a higher chance at unlocking Vessel Pour than someone who has not; though, this is most usually in the form of [[Vessel Pour|Doppel]].
+As for the small minority that do not become a Wretch, those few manage to resist the lull of the Voice and **Bloom**[^6]. This resistance appears to produce a profound change within the individual's relationship with their Vessel, and many who survive the process subsequently obtain insight for [[Vessel Pour]].
 
-Those that deny do not become immune to the Voice, as it has been shown that they may fall victim to it once more. However, denying twice has so far not resulting in any substantial developments in the individual when compared to the first denial.
+Furthermore, those who recover from Wretching also hold a higher chance of unlocking Vessel Pour than someone who has not experienced it. However, these individuals are frequently associated with a peculiar phenomenon known as **Doppel**.
+
+### Doppel
+Doppel is a unique expression associated with those who have resisted or recovered from Wretching. Rather than expressing the Vessel outwardly in the manner of a traditional Vessel Pour, the practitioner draws upon the presence of their own Wretch and temporarily manifests the power associated with it. 
+
+The resulting state allows the individual to make use of abilities and qualities that belong to their Wretch without fully becoming one. The practitioner remains themselves, but their Wretch's influence becomes apparent in both their abilities and the manner in which their Vessel is expressed.
+
+This makes Doppel particularly difficult to classify alongside other forms of Vessel Pour. While the phenomenon may resemble a Pour in the magnitude of its expression, its source is fundamentally different. A Vessel Pour is the expression of the relationship between the self and the Wretch that exists within it. 
+
+The danger of Doppel is therefore not merely physical. The closer one draws upon their Wretch, the greater the possibility that the Wretch may begin to influence the practitioner's thoughts, emotions, or actions. In extreme cases, the Wretch may temporarily assert control over the practitioner altogether.
+
+Those that deny do not become immune to the Voice, as it has been shown that they may fall victim to it once more. However, denying twice has so far not resulted in any substantial developments in the individual when compared to the first denial.
 
 # Mechanics and Generics
-The powerset of a wretch is largely determined by a combination of both what they could do in life as well as their self perceptions. A famous example would be [[Mira Lochen]] (also known as The Forsaken Poet) who went from a poet for noble courts to a vaguely humanoid collection of densely packed, fluttering parchment pages covered in a frantic, bleeding handwriting. Despite being weak in life, her wretch brought all that came close into her poems and prevented the use of most [[Essentias|Essentia]] near her, effectively silencing those like **Wizards**.
+The powerset of a Wretch is largely determined by a combination of both what they could do in life as well as their self perceptions. A famous example would be [[Mira Lochen]] (also known as The Forsaken Poet) who went from a poet for noble courts to a vaguely humanoid collection of densely packed, fluttering parchment pages covered in a frantic, bleeding handwriting. Despite being weak in life, her Wretch brought all that came close into her poems and prevented the use of most [[Essentias|Essentia]] near her, effectively silencing those like **Wizards**.
 
 Mechanically, they generally have immunities to psychic damage as well as mental conditions.
-- **Stabilization.** A wretch can be "stabilized," which comes as a result of reducing them to 0 HP usually and then subjecting them to spells such as *calm emotions* while moving them into an area where they are to be restrained should they fall victim to the Voice once more.
+- **Stabilization.** A Wretch can be "stabilized," which comes as a result of reducing them to 0 HP usually and then subjecting them to spells such as *calm emotions* while moving them into an area where they are to be restrained should they fall victim to the Voice once more.
 
 ---
 
@@ -56,4 +67,4 @@ Mechanically, they generally have immunities to psychic damage as well as mental
 
 [^6]: The term bloom is used for both those that resist the Voice and [[Astrali Homepage|Astrali]] in similar manners as the term is coined by [[The Third Accord]].
 
-[^7]: There have been multiple cases of delirium also being created by the parent wretch itself as well as cases of them being made out of non-sentient or non-living materials.
+[^7]: There have been multiple cases of delirium also being created by the parent Wretch itself as well as cases of them being made out of non-sentient or non-living materials.
