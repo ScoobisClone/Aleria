@@ -154,7 +154,7 @@ plugins:
     enabled: true
     options:
       useSavedState: false
-      folderClickBehavior: "link"
+      folderClickBehavior: link
     layout:
       position: left
       priority: 50
@@ -247,8 +247,11 @@ plugins:
     enabled: true
     options:
       includeAll: true
-      includedProperties:
-      excludedProperties: [aliases, modified, title]
+      includedProperties: null
+      excludedProperties:
+        - aliases
+        - modified
+        - title
       hidePropertiesView: false
       delimiters: ---
       language: yaml

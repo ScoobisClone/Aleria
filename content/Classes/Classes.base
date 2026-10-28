@@ -1,0 +1,13 @@
+filters:
+  and:
+    - tags.contains("class")
+views:
+  - type: table
+    name: View
+    order:
+      - file.name
+      - Primary Ability
+      - Hit Point Die
+      - Class Type
+      - Saving Throws
+      - Skill Proficiencies
