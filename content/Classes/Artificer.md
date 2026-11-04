@@ -24,7 +24,7 @@ Starting Equipment: "Choose A or B: (A) Studded Leather Armor, Dagger, Thieves�
 - Gain the Artificer’s level 1 features, which are listed in the Artificer Features table.
 ## As a Multiclass Character
 - Gain the following traits from the Core Artificer Traits table: Hit Point Die, proficiency with Tinker’s Tools, proficiency in one skill of your choice from the Artificer’s skill list, and training with Light and Medium armor and Shields.
-- Gain the Artificer’s level 1 features, which are listed in the Artificer Features table. See the multiclassing rules in the Player’s Handbook to determine your available spell slots, adding half your Artificer levels (round up).
+- Gain the Artificer’s level 1 features, which are listed in the Artificer Features table. See the multiclassing rules in the [[Player's Handbook]] to determine your available spell slots, adding half your Artificer levels (round up).
 
 # Artificer Class Features
 As an Artificer, you gain the following class features when you reach the specified Artificer levels. These features are listed on the Artificer Features table.
@@ -32,26 +32,27 @@ As an Artificer, you gain the following class features when you reach the specif
 
 |Level|Proficiency Bonus|Class Features|
 |---|---|---|
-|1|+2|[Spellcasting](https://dnd2024.wikidot.com/artificer:main#Spellcasting), [Tinker's Magic](https://dnd2024.wikidot.com/artificer:main#Tinker-s-Magic)|
-|2|+2|[Replicate Magic Item](https://dnd2024.wikidot.com/artificer:main#Replicate-Magic-Item)|
-|3|+2|[Artificer Subclass](https://dnd2024.wikidot.com/artificer:main#Artificer-Subclass)|
-|4|+2|[Ability Score Improvement](https://dnd2024.wikidot.com/artificer:main#Ability-Score-Improvement)|
-|5|+3|[Subclass Feature](https://dnd2024.wikidot.com/artificer:main#Subclass-Feature)|
-|6|+3|[Magic Item Tinker](https://dnd2024.wikidot.com/artificer:main#Magic-Item-Tinker)|
-|7|+3|[Flash of Genius](https://dnd2024.wikidot.com/artificer:main#Flash-of-Genius)|
-|8|+3|[Ability Score Improvement](https://dnd2024.wikidot.com/artificer:main#Ability-Score-Improvement)|
-|9|+4|[Subclass Feature](https://dnd2024.wikidot.com/artificer:main#Subclass-Feature)|
-|10|+4|[Magic Item Adept](https://dnd2024.wikidot.com/artificer:main#Magic-Item-Adept)|
-|11|+4|[Spell-Storing Item](https://dnd2024.wikidot.com/artificer:main#Spell-Storing-Item)|
-|12|+4|[Ability Score Improvement](https://dnd2024.wikidot.com/artificer:main#Ability-Score-Improvement)|
+|1|+2|[[#Level 1: Spellcasting\|Spellcasting]], [[#Level 1: Tinker's Magic\|Tinker's Magic]]|
+|2|+2|[[#Level 2: Replicate Magic Item\|Replicate Magic Item]]|
+|3|+2|[[#Level 3: Artificer Subclass\|Artificer Subclass]]|
+|4|+2|[[#Level 4: Ability Score Improvement\|Ability Score Improvement]]|
+|5|+3|[[#Level 3: Artificer Subclass\|Subclass Feature]]|
+|6|+3|[[#Level 6: Magic Item Tinker\|Magic Item Tinker]]|
+|7|+3|[[#Level 7: Flash of Genius\|Flash of Genius]]|
+|8|+3|[[#Level 4: Ability Score Improvement\|Ability Score Improvement]]|
+|9|+4|[[#Level 3: Artificer Subclass\|Subclass Feature]]|
+|10|+4|[[#Level 10: Magic Item Adept\|Magic Item Adept]]|
+|11|+4|[[#Level 11: Spell-Storing Item\|Spell-Storing Item]]|
+|12|+4|[[#Level 4: Ability Score Improvement\|Ability Score Improvement]]|
 |13|+5|-|
-|14|+5|[Advanced Artifice](https://dnd2024.wikidot.com/artificer:main#Advanced-Artifice)|
-|15|+5|[Subclass Feature](https://dnd2024.wikidot.com/artificer:main#Subclass-Feature)|
-|16|+5|[Ability Score Improvement](https://dnd2024.wikidot.com/artificer:main#Ability-Score-Improvement)|
+|14|+5|[[#Level 14: Advanced Artifice\|Advanced Artifice]]|
+|15|+5|[[#Level 3: Artificer Subclass\|Subclass Feature]]|
+|16|+5|[[#Level 4: Ability Score Improvement\|Ability Score Improvement]]|
 |17|+6|-|
-|18|+6|[Magic Item Master](https://dnd2024.wikidot.com/artificer:main#Magic-Item-Master)|
-|19|+6|[Epic Boon](https://dnd2024.wikidot.com/artificer:main#Epic-Boon)|
-|20|+6|[Soul of Artifice](https://dnd2024.wikidot.com/artificer:main#Soul-of-Artifice)|
+|18|+6|[[#Level 18: Magic Item Master\|Magic Item Master]]|
+|19|+6|[[#Level 19: Epic Boon\|Epic Boon]]|
+|20|+6|[[#Level 20: Soul of Artifice\|Soul of Artifice]]|
+
 ###### Artificer Features (Part B)
 
 |Level|Plans Known|Magic Items|Cantrips|Prepared Spells|1st|2nd|3rd|4th|5th|
@@ -78,11 +79,11 @@ As an Artificer, you gain the following class features when you reach the specif
 |20|8|6|4|15|4|3|3|3|2|
 
 ### Level 1: Spellcasting
-You have learned how to channel magical energy through objects. See the Player’s Handbook for the rules on spellcasting. The information below details how you use those rules with Artificer spells, which appear in the [Artificer Spell List](https://dnd2024.wikidot.com/artificer:spell-list).
+You have learned how to channel magical energy through objects. See the Player’s Handbook for the rules on spellcasting. The information below details how you use those rules with Artificer spells, which appear in the [[Artificer Spell List]].
 
 **Tools Required.** You produce your Artificer spells through tools. You can use Thieves’ Tools, Tinker’s Tools, or another kind of Artisan’s Tools with which you have proficiency as a Spellcasting Focus, and you must have one of those focuses in hand when you cast an Artificer spell (meaning the spell has an M component when you cast it).
 
-**Cantrips.** You know two Artificer cantrips of your choice. [Acid Splash](https://dnd2024.wikidot.com/spell:acid-splash) and [Prestidigitation](https://dnd2024.wikidot.com/spell:prestidigitation) are recommended.
+**Cantrips.** You know two Artificer cantrips of your choice. [[Acid Splash]] and [[Prestidigitation]] are recommended.
 
 Whenever you finish a Long Rest, you can replace one of your cantrips from this feature with another Artificer cantrip of your choice.
 
@@ -90,7 +91,7 @@ When you reach Artificer levels 10 and 14, you learn another Artificer cantrip o
 
 **Spell Slots.** The Artificer Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
-**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Artificer spells. [Cure Wounds](https://dnd2024.wikidot.com/spell:cure-wounds) and [Grease](https://dnd2024.wikidot.com/spell:grease) are recommended.
+**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Artificer spells. [[Cure Wounds]] and [[Grease]] are recommended.
 
 The number of spells on your list increases as you gain Artificer levels, as shown in the Prepared Spells column of the Artificer Features table. Whenever that number increases, choose additional Artificer spells until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 5 Artificer, your list of prepared spells can include six Artificer spells of levels 1 and 2 in any combination.
 
@@ -101,7 +102,7 @@ If another Artificer feature gives you spells that you always have prepared, tho
 **Spellcasting Ability.** Intelligence is your spellcasting ability for your Artificer spells.
 
 ### Level 1: Tinker's Magic
-You know the [Mending](https://dnd2024.wikidot.com/spell:mending) cantrip.
+You know the [[Mending]] cantrip.
 
 As a Magic action while holding Tinker’s Tools, you can create one item in an unoccupied space within 5 feet of yourself, choosing the item from the following list:
 
@@ -164,6 +165,7 @@ If an item that you created with this feature is a container, such as a Bag of H
 |[Wand of the War Mage +1](https://dnd2024.wikidot.com/magic-item:wand-of-the-war-mage-1-2-or-3)|Yes|
 |[Weapon +1](https://dnd2024.wikidot.com/magic-item:weapon-1-2-or-3)|No|
 |[Wraps of Unarmed Power +1](https://dnd2024.wikidot.com/magic-item:wraps-of-unarmed-power)|No|
+
 ###### Magic Item Plans (Artificer Level 6+)
 
 |Magic Item Plan|Attunement|
@@ -190,6 +192,7 @@ If an item that you created with this feature is a container, such as a Bag of H
 |[Wand of Magic Missiles](https://dnd2024.wikidot.com/magic-item:wand-of-magic-missiles)|No|
 |[Wand of Web](https://dnd2024.wikidot.com/magic-item:wand-of-web)|Yes|
 |[Weapon of Warning](https://dnd2024.wikidot.com/magic-item:weapon-of-warning)|Yes|
+
 ###### Magic Item Plans (Artificer Level 10+)
 
 |Magic Item Plan|Attunement|
@@ -205,6 +208,7 @@ If an item that you created with this feature is a container, such as a Bag of H
 |[Wand of the War Mage +2](https://dnd2024.wikidot.com/magic-item:wand-of-the-war-mage-1-2-or-3)|Yes|
 |[Weapon +2](https://dnd2024.wikidot.com/magic-item:weapon-1-2-or-3)|No|
 |[Wraps of Unarmed Power +2](https://dnd2024.wikidot.com/magic-item:wraps-of-unarmed-power)|No|
+
 ###### Magic Item Plans (Artificer Level 14+)
 
 |Magic Item Plan|Attunement|
@@ -216,13 +220,14 @@ If an item that you created with this feature is a container, such as a Bag of H
 |[Ring of Free Action](https://dnd2024.wikidot.com/magic-item:ring-of-free-action)|Yes|
 |[Ring of Protection](https://dnd2024.wikidot.com/magic-item:ring-of-protection)|Yes|
 |[Ring of the Ram](https://dnd2024.wikidot.com/magic-item:ring-of-the-ram)|Yes|
+
 ### Level 3: Artificer Subclass
 You gain an Artificer subclass of your choice. A subclass is a specialization that grants you features at certain Artificer levels. For the rest of your career, you gain each of your subclass’s features that are of your Artificer level or lower.
 
 #### Artificer Subclasses
 
 ### Level 4: Ability Score Improvement
-You gain the [Ability Score Improvement feat](https://dnd2024.wikidot.com/feat:ability-score-improvement) or another [feat of your choice](https://dnd2024.wikidot.com/feat:all) for which you qualify. You gain this feature again at Artificer levels 8, 12, and 16.
+You gain the [[Ability Score Improvement]] feat or another [[Feats|feat of your choice]] for which you qualify. You gain this feature again at Artificer levels 8, 12, and 16.
 
 ### Level 6: Magic Item Tinker
 Your Replicate Magic Item feature gains the following options.
@@ -259,7 +264,7 @@ You gain the following benefits.
 You can now attune to up to four more magic items at once.
 
 ### Level 19: Epic Boon
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Energy Resistance](https://dnd2024.wikidot.com/feat:boon-of-energy-resistance) is recommended.
+You gain an [[Feats|Epic Boon feat]] or another feat of your choice for which you qualify. [[Boon of Energy Resistance]] is recommended.
 
 ### Level 20: Soul of Artifice
 You have developed a mystical connection to your magic items, which you can draw on for aid. You gain the following benefits.

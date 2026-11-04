@@ -20,45 +20,46 @@ Starting Equipment: "Choose A or B: (A) 2 Daggers, Arcane Focus (Quarterstaff), 
 - Gain the Wizard's level 1 features, which are listed in the Wizard Features table.
 ## As a Multiclass Character
 - Gain the Hit Point Die from the Core Wizard Traits table.
-- Gain the Wizard's level 1 features, which are listed in the Wizard Features table. See the multiclassing rules in [multiclassing](https://dnd2024.wikidot.com/class:multiclassing) to determine your available spell slots.
+- Gain the Wizard's level 1 features, which are listed in the Wizard Features table. See the multiclassing rules in [[Multiclassing]] to determine your available spell slots.
 
 # Wizard Class Features
 ###### Wizard Features
 
 |Level|Proficiency Bonus|Features|Cantrips|Prepared Spells|1st|2nd|3rd|4th|5th|6th|7th|8th|9th|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|1|+2|[Spellcasting](https://dnd2024.wikidot.com/wizard:main#Spellcasting), [Ritual Adept](https://dnd2024.wikidot.com/wizard:main#Ritual-Adept), [Arcane Recovery](https://dnd2024.wikidot.com/wizard:main#Arcane-Recovery)|3|4|2|-|-|-|-|-|-|-|-|
-|2|+2|[Scholar](https://dnd2024.wikidot.com/wizard:main#Scholar)|3|5|3|-|-|-|-|-|-|-|-|
-|3|+2|[Wizard Subclass](https://dnd2024.wikidot.com/wizard:main#Arcane-Tradition)|3|6|4|2|-|-|-|-|-|-|-|
-|4|+2|[Ability Score Improvement](https://dnd2024.wikidot.com/wizard:main#Ability-Score-Improvement)|4|7|4|3|-|-|-|-|-|-|-|
-|5|+3|[Memorize Spell](https://dnd2024.wikidot.com/wizard:main#Memorize-Spell)|4|9|4|3|2|-|-|-|-|-|-|
-|6|+3|[Subclass feature](https://dnd2024.wikidot.com/wizard:main#Arcane-Tradition)|4|10|4|3|3|-|-|-|-|-|-|
+|1|+2|[[#Level 1: Spellcasting\|Spellcasting]], [[#Level 1: Ritual Adept\|Ritual Adept]], [[#Level 1: Arcane Recovery\|Arcane Recovery]]|3|4|2|-|-|-|-|-|-|-|-|
+|2|+2|[[#Level 2: Scholar\|Scholar]]|3|5|3|-|-|-|-|-|-|-|-|
+|3|+2|[[#Level 3: Arcane Tradition\|Wizard Subclass]]|3|6|4|2|-|-|-|-|-|-|-|
+|4|+2|[[#Level 4: Ability Score Improvement\|Ability Score Improvement]]|4|7|4|3|-|-|-|-|-|-|-|
+|5|+3|[[#Level 5: Memorize Spell\|Memorize Spell]]|4|9|4|3|2|-|-|-|-|-|-|
+|6|+3|[[#Level 3: Arcane Tradition\|Subclass feature]]|4|10|4|3|3|-|-|-|-|-|-|
 |7|+3|-|4|11|4|3|3|1|-|-|-|-|-|
-|8|+3|[Ability Score Improvement](https://dnd2024.wikidot.com/wizard:main#Ability-Score-Improvement)|4|12|4|3|3|2|-|-|-|-|-|
+|8|+3|[[#Level 4: Ability Score Improvement\|Ability Score Improvement]]|4|12|4|3|3|2|-|-|-|-|-|
 |9|+4|-|4|14|4|3|3|3|1|-|-|-|-|
-|10|+4|[Subclass feature](https://dnd2024.wikidot.com/wizard:main#Arcane-Tradition)|5|15|4|3|3|3|2|-|-|-|-|
+|10|+4|[[#Level 3: Arcane Tradition\|Subclass feature]]|5|15|4|3|3|3|2|-|-|-|-|
 |11|+4|-|5|16|4|3|3|3|2|1|-|-|-|
-|12|+4|[Ability Score Improvement](https://dnd2024.wikidot.com/wizard:main#Ability-Score-Improvement)|5|16|4|3|3|3|2|1|-|-|-|
+|12|+4|[[#Level 4: Ability Score Improvement\|Ability Score Improvement]]|5|16|4|3|3|3|2|1|-|-|-|
 |13|+5|-|5|17|4|3|3|3|2|1|1|-|-|
-|14|+5|[Subclass feature](https://dnd2024.wikidot.com/wizard:main#Arcane-Tradition)|5|18|4|3|3|3|2|1|1|-|-|
+|14|+5|[[#Level 3: Arcane Tradition\|Subclass feature]]|5|18|4|3|3|3|2|1|1|-|-|
 |15|+5|-|5|19|4|3|3|3|2|1|1|1|-|
-|16|+5|[Ability Score Improvement](https://dnd2024.wikidot.com/wizard:main#Ability-Score-Improvement)|5|21|4|3|3|3|2|1|1|1|-|
+|16|+5|[[#Level 4: Ability Score Improvement\|Ability Score Improvement]]|5|21|4|3|3|3|2|1|1|1|-|
 |17|+6|-|5|22|4|3|3|3|2|1|1|1|1|
-|18|+6|[Spell Mastery](https://dnd2024.wikidot.com/wizard:main#Spell-Mastery)|5|23|4|3|3|3|3|1|1|1|1|
-|19|+6|[Epic Boon](https://dnd2024.wikidot.com/wizard:main#Epic-Boon)|5|24|4|3|3|3|3|2|1|1|1|
-|20|+6|[Signature Spells](https://dnd2024.wikidot.com/wizard:main#Signature-Spells)|5|25|4|3|3|3|3|2|2|1|1|
+|18|+6|[[#Level 18: Spell Mastery\|Spell Mastery]]|5|23|4|3|3|3|3|1|1|1|1|
+|19|+6|[[#Level 19: Epic Boon\|Epic Boon]]|5|24|4|3|3|3|3|2|1|1|1|
+|20|+6|[[#Level 20: Signature Spells\|Signature Spells]]|5|25|4|3|3|3|3|2|2|1|1|
+
 As a Wizard, you gain the following class features when you reach the specified Wizard levels. These features are listed in the Wizard Features table.
 
 ### Level 1: Spellcasting
-As a student of arcane magic, you have learned to cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Wizard spells, which appear in the [Wizard spell list](https://dnd2024.wikidot.com/wizard:spell-list) later in the class’s description.
+As a student of arcane magic, you have learned to cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Wizard spells, which appear in the [[Wizard spell list]] later in the class’s description.
 
-**Cantrips.** You know three Wizard cantrips of your choice. [Light](https://dnd2024.wikidot.com/spell:light), [Mage Hand](https://dnd2024.wikidot.com/spell:mage-hand), and [Ray of Frost](https://dnd2024.wikidot.com/spell:ray-of-frost) are recommended. Whenever you finish a Long Rest, you can replace one of your cantrips from this feature with another Wizard cantrip of your choice.
+**Cantrips.** You know three Wizard cantrips of your choice. [[Light]], [[Mage Hand]], and [[Ray of Frost]] are recommended. Whenever you finish a Long Rest, you can replace one of your cantrips from this feature with another Wizard cantrip of your choice.
 
 When you reach Wizard levels 4 and 10, you learn another Wizard cantrip of your choice, as shown in the Cantrips column of the Wizard Features table.
 
-**Spellbook.** Your wizardly apprenticeship culminated in the creation of a unique book: your spellbook. It is a Tiny object that weighs 3 pounds, contains 100 pages, and can be read only by you or someone casting Identify. You determine the book’s appearance and materials, such as a gilt-edged tome or a collection of vellum bound with twine.
+**Spellbook.** Your wizardly apprenticeship culminated in the creation of a unique book: your spellbook. It is a Tiny object that weighs 3 pounds, contains 100 pages, and can be read only by you or someone casting [[Identify]]. You determine the book’s appearance and materials, such as a gilt-edged tome or a collection of vellum bound with twine.
 
-The book contains the level 1+ spells you know. It starts with six level 1 Wizard spells of your choice. [Detect Magic](https://dnd2024.wikidot.com/spell:detect-magic), [Feather Fall](https://dnd2024.wikidot.com/spell:feather-fall), [Mage Armor](https://dnd2024.wikidot.com/spell:mage-armor), [Magic Missile](https://dnd2024.wikidot.com/spell:magic-missile), [Sleep](https://dnd2024.wikidot.com/spell:sleep), and [Thunderwave](https://dnd2024.wikidot.com/spell:thunderwave) are recommended.
+The book contains the level 1+ spells you know. It starts with six level 1 Wizard spells of your choice. [[Detect Magic]], [[Feather Fall]], [[Mage Armor]], [[Magic Missile]], [[Sleep]], and [[Thunderwave]] are recommended.
 
 Whenever you gain a Wizard level after 1, add two Wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown in the Wizard Features table. The spells are the culmination of arcane research you do regularly.
 
@@ -77,7 +78,7 @@ If another Wizard feature gives you spells that you always have prepared, those 
 **Spellcasting Focus.** You can use an Arcane Focus or your spellbook as a Spellcasting Focus for your Wizard spells.
 
 ##### Expanding and Replacing a Spellbook
-The spells you add to your spellbook as you gain levels reflect your ongoing magical research, but you might find other spells during your adventures that you can add to the book. You could discover a Wizard spell on a Spell Scroll, for example, and then copy it into your spellbook.
+The spells you add to your spellbook as you gain levels reflect your ongoing magical research, but you might find other spells during your adventures that you can add to the book. You could discover a Wizard spell on a [[Spell Scroll]], for example, and then copy it into your spellbook.
 
 ##### Copying a Spell into the Book.
 When you find a level 1+ Wizard spell, you can copy it into your spellbook if it’s of a level you can prepare and if you have time to copy it. For each level of the spell, the transcription takes 2 hours and costs 50GP. Afterward you can prepare the spell like the other spells in your spellbook.
@@ -106,7 +107,7 @@ You gain a Wizard subclass of your choice. A subclass is a specialization that g
 ##### Wizard Subclasses
 
 ### Level 4: Ability Score Improvement
-You gain the [Ability Score Improvement feat](https://dnd2024.wikidot.com/feat:ability-score-improvement) or another [feat of your choice](https://dnd2024.wikidot.com/feat:all) for which you qualify. You gain this feature again at Wizard levels 8, 12, and 16.
+You gain the [[Ability Score Improvement]] feat or another [[Feats|feat of your choice]] for which you qualify. You gain this feature again at Wizard levels 8, 12, and 16.
 
 ### Level 5: Memorize Spell
 Whenever you finish a Short Rest, you can study your spellbook and replace one of the level 1+ Wizard spells you have prepared for your Spellcasting feature with another level 1+ spell from the book.
@@ -117,7 +118,7 @@ You have achieved such mastery over certain spells that you can cast them at wil
 Whenever you finish a Long Rest, you can study your spellbook and replace one of those spells with an eligible spell of the same level from the book.
 
 ### Level 19: Epic Boon
-You gain an [Epic Boon feat](https://dnd2024.wikidot.com/feat:all) or another feat of your choice for which you qualify. [Boon of Spell Recall](https://dnd2024.wikidot.com/feat:boon-of-spell-recall) is recommended.
+You gain an [[Feats|Epic Boon feat]] or another feat of your choice for which you qualify. [[Boon of Spell Recall]] is recommended.
 
 ### Level 20: Signature Spells
 Choose two level 3 spells in your spellbook as your signature spells. You always have these spells prepared, and you can cast each of them once at level 3 without expending a spell slot. When you do so, you can't cast them in this way again until you finish a Short or Long Rest. To cast either spell at a higher level, you must expend a spell slot.

@@ -22,33 +22,33 @@ Starting Equipment: "Choose A or B: (A) Chain Shirt, Shield, Mace, Holy Symbol, 
 - Gain the Cleric's level 1 features, which are listed in the Cleric Features table.
 ## As a Multiclass Character
 - Gain the following traits from the Core Cleric Traits table: Hit Point Die and training with Light and Medium armor and Shields.
-- Gain the Cleric's level 1 features, which are listed in the Cleric Features table. See the multiclassing rules in [multiclassing](https://dnd2024.wikidot.com/class:multiclassing) to determine your available spell slots.
+- Gain the Cleric's level 1 features, which are listed in the Cleric Features table. See the multiclassing rules in [[Multiclassing]] to determine your available spell slots.
 
 # Cleric Class Features
 ###### Cleric Features (Part A)
 
 |Level|Proficiency Bonus|Features|
 |---|---|---|
-|1|+2|[Spellcasting](https://dnd2024.wikidot.com/cleric:main#Spellcasting), [Divine Order](https://dnd2024.wikidot.com/cleric:main#Divine-Order)|
-|2|+2|[Channel Divinity](https://dnd2024.wikidot.com/cleric:main#Channel-Divinity)|
-|3|+2|[Cleric Subclass](https://dnd2024.wikidot.com/cleric:main#Cleric-Subclass)|
-|4|+2|[Ability Score Improvement](https://dnd2024.wikidot.com/cleric:main#Ability-Score-Improvement)|
-|5|+3|[Sear Undead](https://dnd2024.wikidot.com/cleric:main#Sear-Undead)|
-|6|+3|[Subclass Feature](https://dnd2024.wikidot.com/cleric:main#Subclass-Feature)|
-|7|+3|[Blessed Strikes](https://dnd2024.wikidot.com/cleric:main#Blessed-Strikes)|
-|8|+3|[Ability Score Improvement](https://dnd2024.wikidot.com/cleric:main#Ability-Score-Improvement)|
+|1|+2|[[#Level 1: Spellcasting\|Spellcasting]], [[#Level 1: Divine Order\|Divine Order]]|
+|2|+2|[[#Level 2: Channel Divinity\|Channel Divinity]]|
+|3|+2|[[#Level 3: Cleric Subclass\|Cleric Subclass]]|
+|4|+2|[[#Level 4: Ability Score Improvement\|Ability Score Improvement]]|
+|5|+3|[[#Level 5: Sear Undead\|Sear Undead]]|
+|6|+3|[[#Level 3: Cleric Subclass\|Subclass Feature]]|
+|7|+3|[[#Level 7: Blessed Strikes\|Blessed Strikes]]|
+|8|+3|[[#Level 4: Ability Score Improvement\|Ability Score Improvement]]|
 |9|+4|-|
-|10|+4|[Divine Intervention](https://dnd2024.wikidot.com/cleric:main#Divine-Intervention)|
+|10|+4|[[#Level 10: Divine Intervention\|Divine Intervention]]|
 |11|+4|-|
-|12|+4|[Ability Score Improvement](https://dnd2024.wikidot.com/cleric:main#Ability-Score-Improvement)|
+|12|+4|[[#Level 4: Ability Score Improvement\|Ability Score Improvement]]|
 |13|+5|-|
-|14|+5|[Improved Blessed Strikes](https://dnd2024.wikidot.com/cleric:main#Improved-Blessed-Strikes)|
+|14|+5|[[#Level 14: Improved Blessed Strikes\|Improved Blessed Strikes]]|
 |15|+5|-|
-|16|+5|[Ability Score Improvement](https://dnd2024.wikidot.com/cleric:main#Ability-Score-Improvement)|
-|17|+6|[Subclass Feature](https://dnd2024.wikidot.com/cleric:main#Subclass-Feature)|
+|16|+5|[[#Level 4: Ability Score Improvement\|Ability Score Improvement]]|
+|17|+6|[[#Level 3: Cleric Subclass\|Subclass Feature]]|
 |18|+6|-|
-|19|+6|[Epic Boon](https://dnd2024.wikidot.com/cleric:main#Epic-Boon)|
-|20|+6|[Greater Divine Intervention](https://dnd2024.wikidot.com/cleric:main#Greater-Divine-Intervention)|
+|19|+6|[[#Level 19: Epic Boon\|Epic Boon]]|
+|20|+6|[[#Level 20: Greater Divine Intervention\|Greater Divine Intervention]]|
 
 ###### Cleric Features (Part B)
 
@@ -74,12 +74,13 @@ Starting Equipment: "Choose A or B: (A) Chain Shirt, Shield, Mace, Holy Symbol, 
 |18|4|5|20|4|3|3|3|3|1|1|1|1|
 |19|4|5|21|4|3|3|3|3|2|1|1|1|
 |20|4|5|22|4|3|3|3|3|2|2|1|1|
+
 As a Cleric, you gain the following class features when you reach the specified Cleric levels. These features are listed in the Cleric Features table.
 
 ### Level 1: Spellcasting
-You have learned to cast spells through prayer and meditation. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Cleric spells, which appear on the [Cleric spell list](https://dnd2024.wikidot.com/cleric:spell-list) later in the class’s description.
+You have learned to cast spells through prayer and meditation. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Cleric spells, which appear on the [[Cleric spell list]] later in the class’s description.
 
-**Cantrips.** You know three cantrips of your choice from the Cleric spell list. [Guidance](https://dnd2024.wikidot.com/spell:guidance), [Sacred Flame](https://dnd2024.wikidot.com/spell:sacred-flame), and [Thaumaturgy](https://dnd2024.wikidot.com/spell:thaumaturgy) are recommended.
+**Cantrips.** You know three cantrips of your choice from the Cleric spell list. [[Guidance]], [[Sacred Flame]], and [[Thaumaturgy]] are recommended.
 
 Whenever you gain a Cleric level, you can replace one of your cantrips with another cantrip of your choice from the Cleric spell list.
 
@@ -87,7 +88,7 @@ When you reach Cleric levels 4 and 10, you learn another cantrip of your choice 
 
 **Spell Slots.** The Cleric Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
-**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Cleric spell list. [Bless](https://dnd2024.wikidot.com/spell:bless), [Cure Wounds](https://dnd2024.wikidot.com/spell:cure-wounds), [Guiding Bolt](https://dnd2024.wikidot.com/spell:guiding-bolt), and [Shield of Faith](https://dnd2024.wikidot.com/spell:shield-of-faith) are recommended.
+**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Cleric spell list. [[Bless]], [[Cure Wounds]], [[Guiding Bolt]], and [[Shield of Faith]] are recommended.
 
 The number of spells on your list increases as you gain Cleric levels, as shown in the Prepared Spells column of the Cleric Features table. Whenever that number increases, choose additional spells from the Cleric spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 3 Cleric, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
@@ -125,7 +126,7 @@ You gain a Cleric subclass of your choice. A subclass is a specialization that g
 ##### Cleric Subclasses
 
 ### Level 4: Ability Score Improvement
-You gain the [Ability Score Improvement feat](https://dnd2024.wikidot.com/feat:ability-score-improvement) or another [feat of your choice](https://dnd2024.wikidot.com/feat:all) for which you qualify. You gain this feature again at Cleric levels 8, 12, and 16.
+You gain the [[Ability Score Improvement]] feat or another [[Feats|feat of your choice]] for which you qualify. You gain this feature again at Cleric levels 8, 12, and 16.
 
 ### Level 5: Sear Undead
 Whenever you use Turn Undead, you can roll a number of d8s equal to your Wisdom modifier (minimum of 1d8) and add the rolls together. Each Undead that fails its saving throw against that use of Turn Undead takes Radiant damage equal to the roll’s total. This damage doesn’t end the turn effect.
@@ -148,7 +149,7 @@ The option you chose for Blessed Strikes grows more powerful.
 **Potent Spellcasting.** When you cast a Cleric cantrip and deal damage to a creature with it, you can give vitality to yourself or another creature within 60 feet of yourself, granting a number of Temporary Hit Points equal to twice your Wisdom modifier.
 
 ### Level 19: Epic Boon
-You gain an [Epic Boon feat](https://dnd2024.wikidot.com/feat:all) or another feat of your choice for which you qualify. [Boon of Fate](https://dnd2024.wikidot.com/feat:boon-of-fate) is recommended.
+You gain an [[Feats|Epic Boon feat]] or another feat of your choice for which you qualify. [[Boon of Fate]] is recommended.
 
 ### Level 20: Greater Divine Intervention
-You can call on even more powerful divine intervention. When you use your Divine Intervention feature, you can choose [Wish](https://dnd2024.wikidot.com/spell:wish) when you select a spell. If you do so, you can’t use Divine Intervention again until you finish 2d4 Long Rests.
+You can call on even more powerful divine intervention. When you use your Divine Intervention feature, you can choose [[Wish]] when you select a spell. If you do so, you can’t use Divine Intervention again until you finish 2d4 Long Rests.

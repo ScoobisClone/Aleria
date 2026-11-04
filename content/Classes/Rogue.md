@@ -29,26 +29,27 @@ Starting Equipment: "Choose A or B: (A) Leather Armor, 2 Daggers, Shortsword, Sh
 
 |Level|Proficiency Bonus|Class Features|Sneak Attack|
 |---|---|---|---|
-|1|+2|[Expertise](https://dnd2024.wikidot.com/rogue:main#Expertise), [Sneak Attack](https://dnd2024.wikidot.com/rogue:main#Sneak-Attack), [Thieves' Cant](https://dnd2024.wikidot.com/rogue:main#Thieves-Cant), [Weapon Mastery](https://dnd2024.wikidot.com/rogue:main#Weapon-Mastery)|1d6|
-|2|+2|[Cunning Action](https://dnd2024.wikidot.com/rogue:main#Cunning-Action)|1d6|
-|3|+2|[Rogue Subclass](https://dnd2024.wikidot.com/rogue:main#Rogue-Subclass), [Steady Aim](https://dnd2024.wikidot.com/rogue:main#Steady-Aim)|2d6|
-|4|+2|[Ability Score Improvement](https://dnd2024.wikidot.com/rogue:main#Ability-Score-Improvement)|2d6|
-|5|+3|[Cunning Strike](https://dnd2024.wikidot.com/rogue:main#Cunning-Strike), [Uncanny Dodge](https://dnd2024.wikidot.com/rogue:main#Uncanny-Dodge)|3d6|
-|6|+3|[Expertise](https://dnd2024.wikidot.com/rogue:main#Expertise)|3d6|
-|7|+3|[Evasion](https://dnd2024.wikidot.com/rogue:main#Evasion), [Reliable Talent](https://dnd2024.wikidot.com/rogue:main#Reliable-Talent)|4d6|
-|8|+3|[Ability Score Improvement](https://dnd2024.wikidot.com/rogue:main#Ability-Score-Improvement)|4d6|
-|9|+4|[Subclass Feature](https://dnd2024.wikidot.com/rogue:main#Subclass-Feature)|5d6|
-|10|+4|[Ability Score Improvement](https://dnd2024.wikidot.com/rogue:main#Ability-Score-Improvement)|5d6|
-|11|+4|[Improved Cunning Strike](https://dnd2024.wikidot.com/rogue:main#Improved-Cunning-Strike)|6d6|
-|12|+4|[Ability Score Improvement](https://dnd2024.wikidot.com/rogue:main#Ability-Score-Improvement)|6d6|
-|13|+5|[Subclass Feature](https://dnd2024.wikidot.com/rogue:main#Subclass-Feature)|7d6|
-|14|+5|[Devious Strikes](https://dnd2024.wikidot.com/rogue:main#Devious-Strikes)|7d6|
-|15|+5|[Slippery Mind](https://dnd2024.wikidot.com/rogue:main#Slippery-Mind)|8d6|
-|16|+5|[Ability Score Improvement](https://dnd2024.wikidot.com/rogue:main#Ability-Score-Improvement)|8d6|
-|17|+6|[Subclass Feature](https://dnd2024.wikidot.com/rogue:main#Subclass-Feature)|9d6|
-|18|+6|[Elusive](https://dnd2024.wikidot.com/rogue:main#Elusive)|9d6|
-|19|+6|[Epic Boon](https://dnd2024.wikidot.com/rogue:main#Epic-Boon)|10d6|
-|20|+6|[Stroke of Luck](https://dnd2024.wikidot.com/rogue:main#Stroke-of-Luck)|10d6|
+|1|+2|[[#Level 1: Expertise\|Expertise]], [[#Level 1: Sneak Attack\|Sneak Attack]], [[#Level 1: Thieves' Cant\|Thieves' Cant]], [[#Level 1: Weapon Mastery\|Weapon Mastery]]|1d6|
+|2|+2|[[#Level 2: Cunning Action\|Cunning Action]]|1d6|
+|3|+2|[[#Level 3: Rogue Subclass\|Rogue Subclass]], [[#Level 3: Steady Aim\|Steady Aim]]|2d6|
+|4|+2|[[#Level 4: Ability Score Improvement\|Ability Score Improvement]]|2d6|
+|5|+3|[[#Level 5: Cunning Strike\|Cunning Strike]], [[#Level 5: Uncanny Dodge\|Uncanny Dodge]]|3d6|
+|6|+3|[[#Level 1: Expertise\|Expertise]]|3d6|
+|7|+3|[[#Level 7: Evasion\|Evasion]], [[#Level 7: Reliable Talent\|Reliable Talent]]|4d6|
+|8|+3|[[#Level 4: Ability Score Improvement\|Ability Score Improvement]]|4d6|
+|9|+4|[[#Level 3: Rogue Subclass\|Subclass Feature]]|5d6|
+|10|+4|[[#Level 4: Ability Score Improvement\|Ability Score Improvement]]|5d6|
+|11|+4|[[#Level 11: Improved Cunning Strike\|Improved Cunning Strike]]|6d6|
+|12|+4|[[#Level 4: Ability Score Improvement\|Ability Score Improvement]]|6d6|
+|13|+5|[[#Level 3: Rogue Subclass\|Subclass Feature]]|7d6|
+|14|+5|[[#Level 14: Devious Strikes\|Devious Strikes]]|7d6|
+|15|+5|[[#Level 15: Slippery Mind\|Slippery Mind]]|8d6|
+|16|+5|[[#Level 4: Ability Score Improvement\|Ability Score Improvement]]|8d6|
+|17|+6|[[#Level 3: Rogue Subclass\|Subclass Feature]]|9d6|
+|18|+6|[[#Level 18: Elusive\|Elusive]]|9d6|
+|19|+6|[[#Level 19: Epic Boon\|Epic Boon]]|10d6|
+|20|+6|[[#Level 20: Stroke of Luck\|Stroke of Luck]]|10d6|
+
 As a Rogue, you gain the following class features when you reach the specified Rogue levels. These features are listed in the Rogue Features table.
 
 ### Level 1: Expertise
@@ -67,7 +68,7 @@ The extra damage increases as you gain Rogue levels, as shown in the Sneak Attac
 You picked up various languages in the communities where you plied your roguish talents. You know Thieves' Cant and one other language of your choice, which you choose from the language tables in Chapter 2.
 
 ### Level 1: Weapon Mastery
-Your training with weapons allows you to use the [[Stances & Masteries]] with two points. Whenever you finish a Long Rest, you can practice weapon drills and change one of those  choices.
+Your training with weapons allows you to use the [[Stances & Masteries]] with two points. Whenever you finish a Long Rest, you can practice weapon drills and change one of those choices.
 
 Whenever you finish a Long Rest, you can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Shortswords.
 
@@ -83,7 +84,7 @@ You gain a Rogue subclass of your choice. A Subclass is a specialization that gr
 As a Bonus Action, you give yourself Advantage on your next attack roll on your current turn. You can use this feature only if you haven't moved during this turn, and after you use it, your Speed is 0 until the end of the current turn.
 
 ### Level 4: Ability Score Improvement
-You gain the [Ability Score Improvement feat](https://dnd2024.wikidot.com/feat:ability-score-improvement) or another [feat of your choice](https://dnd2024.wikidot.com/feat:all) for which you qualify. You gain this feature again at Rogue levels 8, 10, 12, and 16.
+You gain the [[Ability Score Improvement]] feat or another [[Feats|feat of your choice]] for which you qualify. You gain this feature again at Rogue levels 8, 10, 12, and 16.
 
 ### Level 5: Cunning Strike
 You've developed cunning ways to use your Sneak Attack. When you deal Sneak Attack damage, you can add one of the following Cunning Strike effects. Each effect has a die cost, which is the number of Sneak Attack dice you must forgo to add the effect. You remove the die before rolling, and the effect occurs immediately after the attack's damage is dealt. For example, if you add the Poison effect, remove 1d6 from the Sneak Attack's damage before rolling.
@@ -126,7 +127,7 @@ Your mind is exceptionally difficult to control. You gain proficiency in Wisdom 
 You're so evasive that attackers rarely gain the upper hand against you. No attack roll can have advantage against you unless you have the Incapacitated condition.
 
 ### Level 19: Epic Boon
-You gain an [Epic Boon feat](https://dnd2024.wikidot.com/feat:all) or another feat of your choice for which you qualify. [Boon of the Night Spirit](https://dnd2024.wikidot.com/feat:boon-of-the-night-spirit) is recommended.
+You gain an [[Feats|Epic Boon feat]] or another feat of your choice for which you qualify. [[Boon of the Night Spirit]] is recommended.
 
 ### Level 20: Stroke of Luck
 You have a marvelous knack for succeeding when you need to. If you fail a d20 Test, you can turn the roll into a 20.

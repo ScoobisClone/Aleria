@@ -24,65 +24,67 @@ Starting Equipment: "Choose A or B: (A) Studded Leather Armor, Scimitar, Shortsw
 - Gain the Ranger's level 1 features, which are listed in the Ranger Features table.
 ## As a Multiclass Character
 - Gain the following traits from the Core Ranger Traits table: Hit Point Die, proficiency with Martial weapons, proficiency in one skill of your choice from the Ranger's skill list, training with Light and Medium Armor and Shields.
-- Gain the Ranger's level 1 features, which are listed in the Ranger Features table. See the multiclassing rules in [multiclassing](https://dnd2024.wikidot.com/class:multiclassing) to determine your available spell slots.
+- Gain the Ranger's level 1 features, which are listed in the Ranger Features table. See the multiclassing rules in [[Multiclassing]] to determine your available spell slots.
 
 # Ranger Class Features
 ###### Ranger Features (Part A)
 
 |Level|Proficiency Bonus|Class Features|
 |---|---|---|
-|1|+2|[Spellcasting](https://dnd2024.wikidot.com/ranger:main#Spellcasting), [Favored Enemy](https://dnd2024.wikidot.com/ranger:main#Favored-Enemy), [Weapon Mastery](https://dnd2024.wikidot.com/ranger:main#Weapon-Mastery)|
-|2|+2|[Deft Explorer](https://dnd2024.wikidot.com/ranger:main#Deft-Explorer), [Fighting Style](https://dnd2024.wikidot.com/ranger:main#Fighting-Style)|
-|3|+2|[Ranger Subclass](https://dnd2024.wikidot.com/ranger:main#Ranger-Subclass)|
-|4|+2|[Ability Score Improvement](https://dnd2024.wikidot.com/ranger:main#Ability-Score-Improvement)|
-|5|+3|[Extra Attack](https://dnd2024.wikidot.com/ranger:main#Extra-Attack)|
-|6|+3|[Roving](https://dnd2024.wikidot.com/ranger:main#Roving)|
-|7|+3|[Subclass Feature](https://dnd2024.wikidot.com/ranger:main#Subclass-Feature)|
-|8|+3|[Ability Score Improvement](https://dnd2024.wikidot.com/ranger:main#Ability-Score-Improvement)|
-|9|+4|[Expertise](https://dnd2024.wikidot.com/ranger:main#Expertise)|
-|10|+4|[Tireless](https://dnd2024.wikidot.com/ranger:main#Tireless)|
-|11|+4|[Subclass Feature](https://dnd2024.wikidot.com/ranger:main#Subclass-Feature)|
-|12|+4|[Ability Score Improvement](https://dnd2024.wikidot.com/ranger:main#Ability-Score-Improvement)|
-|13|+5|[Relentless Hunter](https://dnd2024.wikidot.com/ranger:main#Relentless-Hunter)|
-|14|+5|[Nature's Veil](https://dnd2024.wikidot.com/ranger:main#Natures-Veil)|
-|15|+5|[Subclass Feature](https://dnd2024.wikidot.com/ranger:main#Subclass-Feature)|
-|16|+5|[Ability Score Improvement](https://dnd2024.wikidot.com/ranger:main#Ability-Score-Improvement)|
-|17|+6|[Precise Hunter](https://dnd2024.wikidot.com/ranger:main#Precise-Hunter)|
-|18|+6|[Feral Senses](https://dnd2024.wikidot.com/ranger:main#Feral-Senses)|
-|19|+6|[Epic Boon](https://dnd2024.wikidot.com/ranger:main#Epic-Boon)|
-|20|+6|[Foe Slayer](https://dnd2024.wikidot.com/ranger:main#Foe-Slayer)|
+|1|+2|[[#Level 1: Spellcasting\|Spellcasting]], [[#Level 1: Favored Enemy\|Favored Enemy]], [[#Level 1: Weapon Mastery\|Weapon Mastery]]|
+|2|+2|[[#Level 2: Hunter's Mark\|Hunter's Mark]], [[#Level 2: Natural Explorer\|Natural Explorer]], [[#Level 2: Fighting Style\|Fighting Style]]|
+|3|+2|[[#Level 3: Ranger Subclass\|Ranger Subclass]], [[#Level 3: Primeval Awareness\|Primeval Awareness]]|
+|4|+2|[[#Level 4: Ability Score Improvement\|Ability Score Improvement]]|
+|5|+3|[[#Level 5: Extra Attack\|Extra Attack]]|
+|6|+3|[[#Level 6: Roving\|Roving]]|
+|7|+3|[[#Level 3: Ranger Subclass\|Subclass Feature]]|
+|8|+3|[[#Level 4: Ability Score Improvement\|Ability Score Improvement]]|
+|9|+4|[[#Level 9: Expertise\|Expertise]]|
+|10|+4|[[#Level 10: Tireless\|Tireless]]|
+|11|+4|[[#Level 3: Ranger Subclass\|Subclass Feature]]|
+|12|+4|[[#Level 4: Ability Score Improvement\|Ability Score Improvement]]|
+|13|+5|[[#Level 13: Relentless Hunter\|Relentless Hunter]]|
+|14|+5|[[#Level 14: Nature's Veil\|Nature's Veil]]|
+|15|+5|[[#Level 3: Ranger Subclass\|Subclass Feature]]|
+|16|+5|[[#Level 4: Ability Score Improvement\|Ability Score Improvement]]|
+|17|+6|[[#Level 17: Precise Hunter\|Precise Hunter]]|
+|18|+6|[[#Level 18: Feral Senses\|Feral Senses]]|
+|19|+6|[[#Level 19: Epic Boon\|Epic Boon]]|
+|20|+6|[[#Level 20: Foe Slayer\|Foe Slayer]]|
+
 ###### Ranger Features (Part B)
 
-|Level|Favored Enemy|Prepared Spells|1st|2nd|3rd|4th|5th|
-|---|---|---|---|---|---|---|---|
-|1|2|2|2|-|-|-|-|
-|2|2|3|2|-|-|-|-|
-|3|2|4|3|-|-|-|-|
-|4|2|5|3|-|-|-|-|
-|5|3|6|4|2|-|-|-|
-|6|3|6|4|2|-|-|-|
-|7|3|7|4|3|-|-|-|
-|8|3|7|4|3|-|-|-|
-|9|4|9|4|3|2|-|-|
-|10|4|9|4|3|2|-|-|
-|11|4|10|4|3|3|-|-|
-|12|4|10|4|3|3|-|-|
-|13|5|11|4|3|3|1|-|
-|14|5|11|4|3|3|1|-|
-|15|5|12|4|3|3|2|-|
-|16|5|12|4|3|3|2|-|
-|17|6|14|4|3|3|3|1|
-|18|6|14|4|3|3|3|1|
-|19|6|15|4|3|3|3|2|
-|20|6|15|4|3|3|3|2|
+| Level | Favored Enemy | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th |
+| ----- | ------------- | --------------- | --- | --- | --- | --- | --- |
+| 1     | 1             | 2               | 2   | -   | -   | -   | -   |
+| 2     | 1             | 3               | 2   | -   | -   | -   | -   |
+| 3     | 1             | 4               | 3   | -   | -   | -   | -   |
+| 4     | 1             | 5               | 3   | -   | -   | -   | -   |
+| 5     | 2             | 6               | 4   | 2   | -   | -   | -   |
+| 6     | 2             | 6               | 4   | 2   | -   | -   | -   |
+| 7     | 2             | 7               | 4   | 3   | -   | -   | -   |
+| 8     | 2             | 7               | 4   | 3   | -   | -   | -   |
+| 9     | 2             | 9               | 4   | 3   | 2   | -   | -   |
+| 10    | 3             | 9               | 4   | 3   | 2   | -   | -   |
+| 11    | 3             | 10              | 4   | 3   | 3   | -   | -   |
+| 12    | 3             | 10              | 4   | 3   | 3   | -   | -   |
+| 13    | 3             | 11              | 4   | 3   | 3   | 1   | -   |
+| 14    | 3             | 11              | 4   | 3   | 3   | 1   | -   |
+| 15    | 4             | 12              | 4   | 3   | 3   | 2   | -   |
+| 16    | 4             | 12              | 4   | 3   | 3   | 2   | -   |
+| 17    | 4             | 14              | 4   | 3   | 3   | 3   | 1   |
+| 18    | 4             | 14              | 4   | 3   | 3   | 3   | 1   |
+| 19    | 4             | 15              | 4   | 3   | 3   | 3   | 2   |
+| 20    | 5             | 15              | 4   | 3   | 3   | 3   | 2   |
+
 As a Ranger, you gain the following class features when you reach the specified Ranger levels. These features are listed in the Ranger Features table.
 
 ### Level 1: Spellcasting
-You have learned to channel the magical essence of nature to cast spells. See Chapter 7 for the rules on Spellcasting. The Information below details how you use those rules with Ranger spells, which appear in the [Ranger spell list](https://dnd2024.wikidot.com/ranger:spell-list) later in the class's description.
+You have learned to channel the magical essence of nature to cast spells. See Chapter 7 for the rules on Spellcasting. The Information below details how you use those rules with Ranger spells, which appear in the [[Ranger spell list]] later in the class's description.
 
 **Spell Slots.** The Ranger Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
-**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Ranger spells [Cure Wounds](https://dnd2024.wikidot.com/spell:cure-wounds) and [Ensnaring Strike](https://dnd2024.wikidot.com/spell:ensnaring-strike) are recommended.
+**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Ranger spells [[Cure Wounds]] and [[Ensnaring Strike]] are recommended.
 
 The number of spells on your list increases as you gain Ranger levels, as shown in the Prepared Spells column of the Ranger Features table. Whenever that number increases, choose additional spells from the Ranger spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Ranger, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
@@ -95,35 +97,106 @@ If another Ranger feature gives you spells that you always have prepared, those 
 **Spellcasting Focus.** You can use a Druidic Focus as a Spellcasting Focus for your Ranger spells.
 
 ### Level 1: Favored Enemy
-You always have the [Hunter's Mark](https://dnd2024.wikidot.com/spell:hunter-s-mark) spell prepared.  
-You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a Long Rest.
+Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy. You specialize in hunting a particular quarry. In addition to tracking, knowledge, and language advantages, your favored enemy grants you a new spell—this is a special ability you have learned to better hunt your enemy.
 
-The number of times you can cast the spell without a spell slot increases when you reach certain Ranger Levels, as shown in the Favored Enemy column of the Ranger Features table.
+Choose one type of favored enemy from the Favored Enemy table below. (Alternatively, if you choose Humanoids, you can select two specific races of humanoid, such as gnolls and orcs, as a single favored enemy choice).
 
+**Spells.** When you gain a favored enemy, you add the spell associated with that enemy to your known spell list. Treat it as a ranger spell for the purposes of spellcasting, and—if required—reflavor the spell's appearance to better suit your style.
+
+**Tracking and Knowledge.** You have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.
+
+**Languages.** When you gain a favored enemy, you also learn one language of your choice that is spoken by that favored enemy, if they speak one at all.
+
+**Scaling.** You choose one additional favored enemy (and an associated language) as you gain Ranger levels, as shown in the Favored Enemy column of the [[#Ranger Features (Part B)|Ranger Features]] table.
+
+##### Favored Enemy Spells
+
+| Enemy | Spell |
+|---|---|
+| Aberrations | Detect Magic |
+| Beasts | Ensnaring Strike |
+| Celestials | Guiding Bolt |
+| Constructs | Grease |
+| Dragons | Heroism (must target self) |
+| Elementals | Absorb Elements |
+| Fey | Faerie Fire |
+| Fiends | Bless (must target self) |
+| Giants | Jump |
+| Monstrosities | Healing Word (must target self) |
+| Oozes | Detect Poison and Disease |
+| Plants | Burning Hands |
+| Undead | Guiding Bolt |
+| Humanoids | Fog Cloud |
 ### Level 1: Weapon Mastery
-Your training with weapons allows you to use the [[Stances & Masteries]] with two points. Whenever you finish a Long Rest, you can practice weapon drills and change one of those  choices.
+Your training with weapons allows you to use the [[Stances & Masteries]] with two points. Whenever you finish a Long Rest, you can practice weapon drills and change one of those choices.
 
 Whenever you finish a Long Rest, you can change the kinds of weapons you chose. For Example, you could switch to using the mastery properties of Scimitars and Longswords.
 
-### Level 2: Deft Explorer
-Thanks to your travels, you gain the following benefits.
+### Level 2: Hunter's Mark
+At 2nd-level, you gain the ability to mark a creature as your quarry. Add the [[Hunter's Mark]] spell to your known spell list as an extra spell. You may cast this as a 1st-level spell for free (no spell slot required) a number of times equal to your Wisdom modifier (minimum 1).
 
-**Expertise.**: Choose one of your skill proficiencies with which you lack Expertise. You gain Expertise in that skill.
+You regain all expended uses of this feature when you finish a long rest. You may also cast this spell as normal per your spellcasting ability by spending a spell slot.
 
-**Languages.**: You know two languages of your choice from the language tables in chapter 2.
+### Level 2: Natural Explorer
+You are particularly familiar with the natural world, adept at traveling and surviving out in the wilds. At 2nd-level, choose two of the following traits. You may then choose two additional traits at 6th and 10th-level.
+
+**◇ A Forest Friend**
+You gain the trust of a tiny animal friend. You both share a basic understanding, though the animal is still subject to its natural instincts. Your animal must be a tiny CR 0 beast, and (when relevant) it shares your pool of actions.
+If your animal friend is reduced to 0 hit points, you can spend one hit die or suffer a level of exhaustion to reduce it to 1 hit point instead. If your animal friend leaves or dies, you can spend time during a long rest to try bonding with another creature from the surrounding environment. Depending on the situation, this may require animal handling checks.
+**Many Friends:** You may take this trait multiple times, gaining an additional animal friend each time.
+
+**◇ A Light in the Dark**
+You know how to make your lighting supplies last a little longer in the dark. You may roll with advantage when crafting (or enhancing) simple candles or torches, and these crafted lights burn for twice as long as normal.
+
+**◇ Expert Tracker**
+While tracking other creatures, you also learn their exact number, their sizes, and roughly how long ago it was that they passed through the area.
+
+**◇ I Can Sleep Anywhere**
+You have a good eye for a campsite. You may roll with advantage when trying to set up camp in the wilderness.
+
+**◇ I Know This Place**
+When you make a knowledge check relating to the natural world, your proficiency bonus—if any—is doubled (unless you are already an expert in the skill).
+
+**◇ In the Corner of My Eye**
+Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger (as if you were scouting).
+
+**◇ Light Sleeper**
+While asleep, you are still half-aware of what's happening around you. You have disadvantage on all Perception checks while sleeping.
+
+**◇ Make a Meal out of Anything**
+You may roll with advantage when attempting to cook a simple meal with basic or improvised ingredients.
+
+**◇ Natural Sense of Direction**
+When travelling outside, you may make navigation checks as if you had a map and compass.
+
+**◇ Shortcut to Mushrooms**
+When you forage, you find twice as much food or water as you normally would.
+
+**◇ There's Always Another Path**
+Difficult terrain doesn't slow your group's travel during long journeys.
+
+**◇ Walk Softly and Carry a Big Bow**
+If you are traveling alone, you can move stealthily at a normal pace.
 
 ### Level 2: Fighting Style
-You gain a [Fighting Style feat](https://dnd2024.wikidot.com/feat:all) of your choice (see chapter 5). Instead of choosing one of those feats, you can choose the option below.
+Your training with weapons allows you to use the [[Stances & Masteries]] with one point. Whenever you finish a Long Rest, you can practice weapon drills and change one of those choices. Instead using a point on those, you can instead learn the following.
 
-**Druidic Warrior.** You learn two [Druid cantrips](https://dnd2024.wikidot.com/druid:spell-list) of your choice (See the Druid class's section for a list of Druid spells). [Guidance](https://dnd2024.wikidot.com/spell:guidance) and [Starry Wisp](https://dnd2024.wikidot.com/spell:starry-wisp) are recommended. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.
+**Druidic Warrior.** You learn two [[Druid cantrips]] of your choice (See the Druid class's section for a list of Druid spells). [[Guidance]] and [[Starry Wisp]] are recommended. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.
 
 ### Level 3: Ranger Subclass
 You gain a Ranger Subclass of your choice. A Subclass is a specialization that grants you features at certain Ranger levels. For the rest of your career, you gain each of your subclass’s features that are of your Ranger level or lower.
 
 ##### Ranger Subclasses
 
+### Level 3: Primeval Awareness
+You can attune your ranger senses to determine if your chosen quarry lurks nearby.
+
+Spend 1 minute in concentration to sense whether any of your favored enemies are present within 5 miles of you—you learn which of your enemies are in the area, as well as their general numbers, direction, and distance (in miles) from you.
+
+You may use this feature a number of times equal to your Wisdom modifier (minimum 1). You regain all expended uses when you finish a long rest.
+
 ### Level 4: Ability Score Improvement
-You gain the [Ability Score Improvement feat](https://dnd2024.wikidot.com/feat:ability-score-improvement) or another [feat of your choice](https://dnd2024.wikidot.com/feat:all) for which you qualify. You gain this feature again at Ranger levels 8, 12, and 16.
+You gain the [[Ability Score Improvement]] feat or another [[Feats|feat of your choice]] for which you qualify. You gain this feature again at Ranger levels 8, 12, and 16.
 
 ### Level 5: Extra Attack
 You can attack twice instead of once whenever you take the Attack action on your turn.
@@ -142,7 +215,7 @@ Primal forces now help fuel you on your journeys, granting you the following ben
 **Decrease Exhaustion.** Whenever you finish a Short Rest, your Exhaustion level, if any, decreases by 1.
 
 ### Level 13: Relentless Hunter
-Taking damage can't break your Concentration on [Hunter's Mark](https://dnd2024.wikidot.com/spell:hunter-s-mark).
+Taking damage can't break your Concentration on [[Hunter's Mark]].
 
 ### Level 14: Nature's Veil
 You invoke spirits of nature to magically hide yourself. As a Bonus Action you can give yourself the Invisible condition until the end of your next turn.
@@ -150,13 +223,13 @@ You invoke spirits of nature to magically hide yourself. As a Bonus Action you c
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
 ### Level 17: Precise Hunter
-You have Advantage on attack rolls against the creature currently marked by your [Hunter's Mark](https://dnd2024.wikidot.com/spell:hunter-s-mark).
+You have Advantage on attack rolls against the creature currently marked by your [[Hunter's Mark]].
 
 ### Level 18: Feral Senses
 Your connection to the forces of nature grants you Blindsight with a range of 30 feet.
 
 ### Level 19: Epic Boon
-You gain an [Epic Boon feat](https://dnd2024.wikidot.com/feat:all) or another feat of your choice for which you qualify. [Boon of Dimensional Travel](https://dnd2024.wikidot.com/feat:boon-of-dimensional-travel) is recommended.
+You gain an [[Feats|Epic Boon feat]] or another feat of your choice for which you qualify. [[Boon of Dimensional Travel]] is recommended.
 
 ### Level 20: Foe Slayer
-The damage die of your [Hunter's Mark](https://dnd2024.wikidot.com/spell:hunter-s-mark) is a d10 rather than a d6.
+Your Wisdom or Constitution score increases by 2, to a maximum of 23. Your Strength or Dexterity score increases by 2, to a maximum of 23. You can maintain one usage of [[Hunter's Mark]] without requiring concentration, and your marked target is vulnerable to damage from the spell.

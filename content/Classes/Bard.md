@@ -20,33 +20,33 @@ Starting Equipment: "Choose A or B: (A) Leather Armor, 2 Daggers, Musical Instru
 - Gain the Bard's level 1 features, which are listed in the Bard Features table.
 ## As a Multiclass Character
 - Gain the following traits from the Core Bard Traits table: Hit Point Die, proficiency in one skill of your choice, proficiency with one Musical Instrument of your choice, and training with Light armor.
-- Gain the Bard's level 1 features, which are listed in the Bard Features table. See the multiclassing rules in [multiclassing](https://dnd2024.wikidot.com/class:multiclassing) to determine your available spell slots.
+- Gain the Bard's level 1 features, which are listed in the Bard Features table. See the multiclassing rules in [[Multiclassing]] to determine your available spell slots.
 
 # Bard Class Features
 ###### Bard Features (Part A)
 
 |Level|Proficiency Bonus|Features|Bardic Die|
 |---|---|---|---|
-|1|+2|[Bardic Inspiration](https://dnd2024.wikidot.com/bard:main#Bardic-Inspiration), [Spellcasting](https://dnd2024.wikidot.com/bard:main#Spellcasting)|D6|
-|2|+2|[Expertise](https://dnd2024.wikidot.com/bard:main#Expertise), [Jack of all Trades](https://dnd2024.wikidot.com/bard:main#Jack-of-all-Trades)|D6|
-|3|+2|[Bard Subclass](https://dnd2024.wikidot.com/bard:main#Bard-Subclass)|D6|
-|4|+2|[Ability Score Improvement](https://dnd2024.wikidot.com/bard:main#Ability-Score-Improvement)|D6|
-|5|+3|[Font of Inspiration](https://dnd2024.wikidot.com/bard:main#Font-of-Inspiration)|D8|
-|6|+3|[Subclass feature](https://dnd2024.wikidot.com/bard:main#Bard-Subclass)|D8|
-|7|+3|[Countercharm](https://dnd2024.wikidot.com/bard:main#Countercharm)|D8|
-|8|+3|[Ability Score Improvement](https://dnd2024.wikidot.com/bard:main#Ability-Score-Improvement)|D8|
-|9|+4|[Expertise](https://dnd2024.wikidot.com/bard:main#Expertise)|D8|
-|10|+4|[Magical Secrets](https://dnd2024.wikidot.com/bard:main#Magical-Secrets)|D10|
+|1|+2|[[#Level 1: Bardic Inspiration\|Bardic Inspiration]], [[#Level 1: Spellcasting\|Spellcasting]]|D6|
+|2|+2|[[#Level 2: Expertise\|Expertise]], [[#Level 2: Jack of all Trades\|Jack of all Trades]]|D6|
+|3|+2|[[#Level 3: Bard Subclass\|Bard Subclass]]|D6|
+|4|+2|[[#Level 4: Ability Score Improvement\|Ability Score Improvement]]|D6|
+|5|+3|[[#Level 5: Font of Inspiration\|Font of Inspiration]]|D8|
+|6|+3|[[#Level 3: Bard Subclass\|Subclass feature]]|D8|
+|7|+3|[[#Level 7: Countercharm\|Countercharm]]|D8|
+|8|+3|[[#Level 4: Ability Score Improvement\|Ability Score Improvement]]|D8|
+|9|+4|[[#Level 2: Expertise\|Expertise]]|D8|
+|10|+4|[[#Level 10: Magical Secrets\|Magical Secrets]]|D10|
 |11|+4|-|D10|
-|12|+4|[Ability Score Improvement](https://dnd2024.wikidot.com/bard:main#Ability-Score-Improvement)|D10|
+|12|+4|[[#Level 4: Ability Score Improvement\|Ability Score Improvement]]|D10|
 |13|+5|-|D10|
-|14|+5|[Subclass feature](https://dnd2024.wikidot.com/bard:main#Bard-Subclass)|D10|
+|14|+5|[[#Level 3: Bard Subclass\|Subclass feature]]|D10|
 |15|+5|-|D12|
-|16|+5|[Ability Score Improvement](https://dnd2024.wikidot.com/bard:main#Ability-Score-Improvement)|D12|
+|16|+5|[[#Level 4: Ability Score Improvement\|Ability Score Improvement]]|D12|
 |17|+6|-|D12|
-|18|+6|[Superior Inspiration](https://dnd2024.wikidot.com/bard:main#Superior-Inspiration)|D12|
-|19|+6|[Epic Boon](https://dnd2024.wikidot.com/bard:main#Epic-Boon)|D12|
-|20|+6|[Words of Creation](https://dnd2024.wikidot.com/bard:main#Words-of-Creation)|D12|
+|18|+6|[[#Level 18: Superior Inspiration\|Superior Inspiration]]|D12|
+|19|+6|[[#Level 19: Epic Boon\|Epic Boon]]|D12|
+|20|+6|[[#Level 20: Words of Creation\|Words of Creation]]|D12|
 
 ###### Bard Features (Part B)
 
@@ -72,6 +72,7 @@ Starting Equipment: "Choose A or B: (A) Leather Armor, 2 Daggers, Musical Instru
 |18|4|20|4|3|3|3|3|1|1|1|1|
 |19|4|21|4|3|3|3|3|2|1|1|1|
 |20|4|22|4|3|3|3|3|2|2|1|1|
+
 As a Bard, you gain the following class features when you reach the specified Bard levels. These features are listed in the Bard Features table.
 
 ### Level 1: Bardic Inspiration
@@ -86,9 +87,9 @@ Once within the next hour when the creature fails a D20 Test, the creature can r
 **At Higher Levels.** Your Bardic Inspiration die changes when you reach certain Bard levels, as shown in the Bardic Die column of the Bard Features table. The die becomes a d8 at level 5, a d10 at level 10, and a d12 at level 15.
 
 ### Level 1: Spellcasting
-You have learned to cast spells through your bardic arts. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Bard spells, which appear in the [Bard spell list](https://dnd2024.wikidot.com/bard:spell-list) later in the class's description.
+You have learned to cast spells through your bardic arts. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Bard spells, which appear in the [[Bard spell list]] later in the class's description.
 
-**Cantrips.** You know two cantrips of your choice from the Bard spell list. [Dancing Lights](https://dnd2024.wikidot.com/spell:dancing-lights) and [Vicious Mockery](https://dnd2024.wikidot.com/spell:vicious-mockery) are recommended.
+**Cantrips.** You know two cantrips of your choice from the Bard spell list. [[Dancing Lights]] and [[Vicious Mockery]] are recommended.
 
 Whenever you gain a Bard level, you can replace one of your cantrips with another cantrip of your choice from the Bard spell list.
 
@@ -96,7 +97,7 @@ When you reach Bard levels 4 and 10, you learn another cantrip of your choice fr
 
 **Spell Slots.** The Bard Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
-**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Bard spell list. [Charm Person](https://dnd2024.wikidot.com/spell:charm-person), [Color Spray](https://dnd2024.wikidot.com/spell:color-spray), [Dissonant Whispers](https://dnd2024.wikidot.com/spell:dissonant-whispers), and [Healing Word](https://dnd2024.wikidot.com/spell:healing-word) are recommended.
+**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Bard spell list. [[Charm Person]], [[Color Spray]], [[Dissonant Whispers]], and [[Healing Word]] are recommended.
 
 The number of spells on your list increases as you gain Bard levels, as shown in the Prepared Spells column of the Bard Features table. Whenever that number increases, choose additional spells from the Bard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Bard, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
@@ -122,7 +123,7 @@ For example, if you make a Strength (Athletics) check and lack Athletics profici
 You gain a Bard subclass of your choice. A subclass is a specialization that grants you features at certain Bard levels. For the rest of your career, you gain each of your subclass’s features that are of your Bard level or lower.
 
 ### Level 4: Ability Score Improvement
-You gain the [Ability Score Improvement feat](https://dnd2024.wikidot.com/feat:ability-score-improvement) or another [feat of your choice](https://dnd2024.wikidot.com/feat:all) for which you qualify. You gain this feature again at Bard levels 8, 12, and 16.
+You gain the [[Ability Score Improvement]] feat or another [[Feats|feat of your choice]] for which you qualify. You gain this feature again at Bard levels 8, 12, and 16.
 
 ### Level 5: Font of Inspiration
 You now regain all your expended uses of Bardic Inspiration when you finish a Short or Long Rest.
@@ -133,13 +134,13 @@ In addition, you can expend a spell slot (no action required) to regain one expe
 You can use musical notes or words of power to disrupt mind-influencing effects. If you or a creature within 30 feet of you fails a saving throw against an effect that applies the Charmed or Frightened condition, you can take a Reaction to cause the save to be rerolled, and the new roll has Advantage.
 
 ### Level 10: Magical Secrets
-You've learned secrets from various magical traditions. Whenever you reach a Bard level (including this level) and the Prepared Spells number in the Bard Features table increases, you can choose any of your new prepared spells from the [Bard](https://dnd2024.wikidot.com/bard:spell-list), [Cleric](https://dnd2024.wikidot.com/cleric:spell-list), [Druid](https://dnd2024.wikidot.com/druid:spell-list), and [Wizard](https://dnd2024.wikidot.com/wizard:spell-list) spell lists, and the chosen spells count as Bard spells for you (see a class’s section for its spell list). In addition, whenever you replace a spell prepared for this class, you can replace it with a spell from those lists.
+You've learned secrets from various magical traditions. Whenever you reach a Bard level (including this level) and the Prepared Spells number in the Bard Features table increases, you can choose any of your new prepared spells from the [[Bard spell list]], [[Cleric spell list]], [[Druid spell list]], and [[Wizard spell list]], and the chosen spells count as Bard spells for you (see a class’s section for its spell list). In addition, whenever you replace a spell prepared for this class, you can replace it with a spell from those lists.
 
 ### Level 18: Superior Inspiration
 When you roll Initiative, you regain expended uses of Bardic Inspiration until you have two if you have fewer than that.
 
 ### Level 19: Epic Boon
-You gain an [Epic Boon feat](https://dnd2024.wikidot.com/feat:all) or another feat of your choice for which you qualify. [Boon of Spell Recall](https://dnd2024.wikidot.com/feat:boon-of-spell-recall) is recommended.
+You gain an [[Feats|Epic Boon feat]] or another feat of your choice for which you qualify. [[Boon of Spell Recall]] is recommended.
 
 ### Level 20: Words of Creation
-You have mastered two of the Words of Creation: the words of life and death. You therefore always have the [Power Word: Heal](https://dnd2024.wikidot.com/spell:power-word-heal) and [Power Word: Kill](https://dnd2024.wikidot.com/spell:power-word-kill) spells prepared. When you cast either spell, you can target a second creature with it if that creature is within 10 feet of the first target.
+You have mastered two of the Words of Creation: the words of life and death. You therefore always have the [[Power Word: Heal]] and [[Power Word: Kill]] spells prepared. When you cast either spell, you can target a second creature with it if that creature is within 10 feet of the first target.

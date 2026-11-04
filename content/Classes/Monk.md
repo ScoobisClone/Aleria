@@ -30,26 +30,27 @@ Starting Equipment: "Choose A or B: (A) Spear, 5 Daggers, Artisan's Tools or Mus
 
 |Level|Proficiency Bonus|Class Features|
 |---|---|---|
-|1|+2|[Martial Arts](https://dnd2024.wikidot.com/monk:main#Martial-Arts), [Unarmored Defense](https://dnd2024.wikidot.com/monk:main#Unarmored-Defense)|
-|2|+2|[Monk's Focus](https://dnd2024.wikidot.com/monk:main#Monks-Focus), [Unarmored Movement](https://dnd2024.wikidot.com/monk:main#Unarmored-Movement), [Uncanny Metabolism](https://dnd2024.wikidot.com/monk:main#Uncanny-Metabolism)|
-|3|+2|[Deflect Attacks](https://dnd2024.wikidot.com/monk:main#Deflect-Attacks), [Monk Subclass](https://dnd2024.wikidot.com/monk:main#Monk-Subclass)|
-|4|+2|[Ability Score Improvement](https://dnd2024.wikidot.com/monk:main#Ability-Score-Improvement), [Slow Fall](https://dnd2024.wikidot.com/monk:main#Slow-Fall)|
-|5|+3|[Extra Attack](https://dnd2024.wikidot.com/monk:main#Extra-Attack), [Stunning Strike](https://dnd2024.wikidot.com/monk:main#Stunning-Strike)|
-|6|+3|[Empowered Strikes](https://dnd2024.wikidot.com/monk:main#Empowered-Strikes), [Subclass Feature](https://dnd2024.wikidot.com/monk:main#Subclass-Feature)|
-|7|+3|[Evasion](https://dnd2024.wikidot.com/monk:main#Evasion)|
-|8|+3|[Ability Score Improvement](https://dnd2024.wikidot.com/monk:main#Ability-Score-Improvement)|
-|9|+4|[Acrobatic Movement](https://dnd2024.wikidot.com/monk:main#Acrobatic-Movement)|
-|10|+4|[Heightened Focus](https://dnd2024.wikidot.com/monk:main#Heightened-Focus), [Self-Restoration](https://dnd2024.wikidot.com/monk:main#Self-Restoration)|
-|11|+4|[Subclass Feature](https://dnd2024.wikidot.com/monk:main#Subclass-Feature)|
-|12|+4|[Ability Score Improvement](https://dnd2024.wikidot.com/monk:main#Ability-Score-Improvement)|
-|13|+5|[Deflect Energy](https://dnd2024.wikidot.com/monk:main#Deflect-Energy)|
-|14|+5|[Disciplined Survivor](https://dnd2024.wikidot.com/monk:main#Disciplined-Survivor)|
-|15|+5|[Perfect Focus](https://dnd2024.wikidot.com/monk:main#Perfect-Focus)|
-|16|+5|[Ability Score Improvement](https://dnd2024.wikidot.com/monk:main#Ability-Score-Improvement)|
-|17|+6|[Subclass Feature](https://dnd2024.wikidot.com/monk:main#Subclass-Feature)|
-|18|+6|[Superior Defense](https://dnd2024.wikidot.com/monk:main#Superior-Defense)|
-|19|+6|[Epic Boon](https://dnd2024.wikidot.com/monk:main#Epic-Boon)|
-|20|+6|[Body and Mind](https://dnd2024.wikidot.com/monk:main#Body-and-Mind)|
+|1|+2|[[#Level 1: Martial Arts\|Martial Arts]], [[#Level 1: Unarmored Defense\|Unarmored Defense]]|
+|2|+2|[[#Level 2: Monk's Focus\|Monk's Focus]], [[#Level 2: Unarmored Movement\|Unarmored Movement]], [[#Level 2: Uncanny Metabolism\|Uncanny Metabolism]]|
+|3|+2|[[#Level 3: Deflect Attacks\|Deflect Attacks]], [[#Level 3: Monk Subclass\|Monk Subclass]]|
+|4|+2|[[#Level 4: Ability Score Improvement\|Ability Score Improvement]], [[#Level 4: Slow Fall\|Slow Fall]]|
+|5|+3|[[#Level 5: Extra Attack\|Extra Attack]], [[#Level 5: Stunning Strike\|Stunning Strike]]|
+|6|+3|[[#Level 6: Empowered Strikes\|Empowered Strikes]], [[#Level 3: Monk Subclass\|Subclass Feature]]|
+|7|+3|[[#Level 7: Evasion\|Evasion]]|
+|8|+3|[[#Level 4: Ability Score Improvement\|Ability Score Improvement]]|
+|9|+4|[[#Level 9: Acrobatic Movement\|Acrobatic Movement]]|
+|10|+4|[[#Level 10: Heightened Focus\|Heightened Focus]], [[#Level 10: Self-Restoration\|Self-Restoration]]|
+|11|+4|[[#Level 3: Monk Subclass\|Subclass Feature]]|
+|12|+4|[[#Level 4: Ability Score Improvement\|Ability Score Improvement]]|
+|13|+5|[[#Level 13: Deflect Energy\|Deflect Energy]]|
+|14|+5|[[#Level 14: Disciplined Survivor\|Disciplined Survivor]]|
+|15|+5|[[#Level 15: Perfect Focus\|Perfect Focus]]|
+|16|+5|[[#Level 4: Ability Score Improvement\|Ability Score Improvement]]|
+|17|+6|[[#Level 3: Monk Subclass\|Subclass Feature]]|
+|18|+6|[[#Level 18: Superior Defense\|Superior Defense]]|
+|19|+6|[[#Level 19: Epic Boon\|Epic Boon]]|
+|20|+6|[[#Level 20: Body and Mind\|Body and Mind]]|
+
 ###### Monk Features (Part B)
 
 |Level|Martial Arts|Focus Points|Unarmored Movement|
@@ -74,6 +75,7 @@ Starting Equipment: "Choose A or B: (A) Spear, 5 Daggers, Artisan's Tools or Mus
 |18|1d12|18|+30 ft|
 |19|1d12|19|+30 ft|
 |20|1d12|20|+30 ft|
+
 As a Monk, you gain the following class features when you reach the specified Monk levels. These features are listed in the Monk Features table.
 
 ### Level 1: Martial Arts
@@ -125,7 +127,7 @@ You gain a Monk subclass of your choice. A subclass is a specialization that gra
 ##### Monk Subclasses
 
 ### Level 4: Ability Score Improvement
-You gain the [Ability Score Improvement feat](https://dnd2024.wikidot.com/feat:ability-score-improvement) or another [feat of your choice](https://dnd2024.wikidot.com/feat:all) for which you qualify. You gain this feature again at Monk levels 8, 12, and 16.
+You gain the [[Ability Score Improvement]] feat or another [[Feats|feat of your choice]] for which you qualify. You gain this feature again at Monk levels 8, 12, and 16.
 
 ### Level 4: Slow Fall
 You can take a Reaction when you fall to reduce any damage you take from the fall by an amount equal to five times your Monk level.
@@ -176,7 +178,7 @@ When you roll Initiative and don’t use Uncanny Metabolism, you regain expended
 At the start of your turn, you can expend 3 Focus Points to bolster yourself against harm for 1 minute or until you have the Incapacitated condition. During that time, you have Resistance to all damage except Force damage.
 
 ### Level 19: Epic Boon
-You gain an [Epic Boon feat](https://dnd2024.wikidot.com/feat:all) or another feat of your choice for which you qualify. [Boon of Irresistible Offense](https://dnd2024.wikidot.com/feat:boon-of-irresistible-offense) is recommended.
+You gain an [[Feats|Epic Boon feat]] or another feat of your choice for which you qualify. [[Boon of Irresistible Offense]] is recommended.
 
 ### Level 20: Body and Mind
 You have developed your body and mind to new heights. Your Dexterity and Wisdom scores increase by 4, to a maximum of 25.

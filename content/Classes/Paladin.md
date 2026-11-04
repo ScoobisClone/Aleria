@@ -25,33 +25,34 @@ Starting Equipment: "Choose A or B: (A) Chain Mail, Shield, Longsword, 6 Javelin
 - Gain the Paladin's level 1 features, which are listed in the Paladin Features table.
 ## As a Multiclass Character
 - Gain the following traits from the Core Paladin Traits table: Hit Point Die, proficiency with Martial weapons, and training with Light and Medium armor and Shields.
-- Gain the Paladin's level 1 features, which are listed in the Paladin Features table. See the multiclassing rules in [multiclassing](https://dnd2024.wikidot.com/class:multiclassing) to determine your available spell slots.
+- Gain the Paladin's level 1 features, which are listed in the Paladin Features table. See the multiclassing rules in [[Multiclassing]] to determine your available spell slots.
 
 # Paladin Class Features
 ###### Paladin Features (Part A)
 
-|Level|Proficiency Bonus|Class Features|
-|---|---|---|
-|1|+2|[Lay On Hands](https://dnd2024.wikidot.com/paladin:main#Lay-On-Hands), [Spellcasting](https://dnd2024.wikidot.com/paladin:main#Spellcasting), [Weapon Mastery](https://dnd2024.wikidot.com/paladin:main#Weapon-Mastery)|
-|2|+2|[Fighting Style](https://dnd2024.wikidot.com/paladin:main#Fighting-style), [Paladin's Smite](https://dnd2024.wikidot.com/paladin:main#Paladins-Smite)|
-|3|+2|[Channel Divinity](https://dnd2024.wikidot.com/paladin:main#Channel-Divinity), [Paladin Subclass](https://dnd2024.wikidot.com/paladin:main#Paladin-Subclass)|
-|4|+2|[Ability Score Improvement](https://dnd2024.wikidot.com/paladin:main#Ability-Score-Improvement)|
-|5|+3|[Extra Attack](https://dnd2024.wikidot.com/paladin:main#Extra-Attack), [Faithful Steed](https://dnd2024.wikidot.com/paladin:main#Faithful-Steed)|
-|6|+3|[Aura of Protection](https://dnd2024.wikidot.com/paladin:main#Aura-of-Protection)|
-|7|+3|[Subclass Feature](https://dnd2024.wikidot.com/paladin:main#Subclass-Feature)|
-|8|+3|[Ability Score Improvement](https://dnd2024.wikidot.com/paladin:main#Ability-Score-Improvement)|
-|9|+4|[Abjure Foes](https://dnd2024.wikidot.com/paladin:main#Abjure-Foes)|
-|10|+4|[Aura of Courage](https://dnd2024.wikidot.com/paladin:main#Aura-of-Courage)|
-|11|+4|[Radiant Strikes](https://dnd2024.wikidot.com/paladin:main#Radiant-Strikes)|
-|12|+4|[Ability Score Improvement](https://dnd2024.wikidot.com/paladin:main#Ability-Score-Improvement)|
-|13|+5|-|
-|14|+5|[Restoring Touch](https://dnd2024.wikidot.com/paladin:main#Restoring-Touch)|
-|15|+5|[Subclass Feature](https://dnd2024.wikidot.com/paladin:main#Subclass-Feature)|
-|16|+5|[Ability Score Improvement](https://dnd2024.wikidot.com/paladin:main#Ability-Score-Improvement)|
-|17|+6|-|
-|18|+6|[Aura Expansion](https://dnd2024.wikidot.com/paladin:main#Aura-Expansion)|
-|19|+6|[Epic Boon](https://dnd2024.wikidot.com/paladin:main#Epic-Boon)|
-|20|+6|[Subclass Feature](https://dnd2024.wikidot.com/paladin:main#Subclass-Feature)|
+| Level | Proficiency Bonus | Class Features                                                                                                                   |
+| ----- | ----------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | +2                | [[#Level 1: Lay On Hands\|Lay On Hands]], [[#Level 1: Spellcasting\|Spellcasting]], [[#Level 1: Weapon Mastery\|Weapon Mastery]] |
+| 2     | +2                | [[#Level 2: Paladin's Smite\|Paladin's Smite]]                                                                                   |
+| 3     | +2                | [[#Level 3: Channel Divinity\|Channel Divinity]], [[#Level 3: Paladin Subclass\|Paladin Subclass]]                               |
+| 4     | +2                | [[#Level 4: Ability Score Improvement\|Ability Score Improvement]]                                                               |
+| 5     | +3                | [[#Level 5: Extra Attack\|Extra Attack]], [[#Level 5: Faithful Steed\|Faithful Steed]]                                           |
+| 6     | +3                | [[#Level 6: Aura of Protection\|Aura of Protection]]                                                                             |
+| 7     | +3                | [[#Level 3: Paladin Subclass\|Subclass Feature]]                                                                                 |
+| 8     | +3                | [[#Level 4: Ability Score Improvement\|Ability Score Improvement]]                                                               |
+| 9     | +4                | [[#Level 9: Abjure Foes\|Abjure Foes]]                                                                                           |
+| 10    | +4                | [[#Level 10: Aura of Courage\|Aura of Courage]]                                                                                  |
+| 11    | +4                | [[#Level 11: Radiant Strikes\|Radiant Strikes]]                                                                                  |
+| 12    | +4                | [[#Level 4: Ability Score Improvement\|Ability Score Improvement]]                                                               |
+| 13    | +5                | -                                                                                                                                |
+| 14    | +5                | [[#Level 14: Restoring Touch\|Restoring Touch]]                                                                                  |
+| 15    | +5                | [[#Level 3: Paladin Subclass\|Subclass Feature]]                                                                                 |
+| 16    | +5                | [[#Level 4: Ability Score Improvement\|Ability Score Improvement]]                                                               |
+| 17    | +6                | -                                                                                                                                |
+| 18    | +6                | [[#Level 18: Aura Expansion\|Aura Expansion]]                                                                                    |
+| 19    | +6                | [[#Level 19: Epic Boon\|Epic Boon]]                                                                                              |
+| 20    | +6                | [[#Level 3: Paladin Subclass\|Subclass Feature]]                                                                                 |
+
 ###### Paladin Features (Part B)
 
 |Level|Channel Divinity|Prepared Spells|1st|2nd|3rd|4th|5th|
@@ -76,6 +77,7 @@ Starting Equipment: "Choose A or B: (A) Chain Mail, Shield, Longsword, 6 Javelin
 |18|3|14|4|3|3|3|1|
 |19|3|15|4|3|3|3|2|
 |20|3|15|4|3|3|3|2|
+
 As a Paladin, you gain the following class features when you reach the specified Paladin levels. These features are listed in the Paladin Features table.
 
 ### Level 1: Lay On Hands
@@ -86,11 +88,11 @@ As a Bonus Action, you can touch a creature (which could be yourself) and draw p
 You can also expend 5 Hit Points from the pool of healing power to remove the Poisoned condition from the creature; those points don't also restore Hit Points to the creature.
 
 ### Level 1: Spellcasting
-You have learned to cast spells through prayer and meditation. See Chapter 7 for the rules on Spellcasting. The Information below details how you use those rules with Paladin spells, which appear in the [Paladin spell list](https://dnd2024.wikidot.com/paladin:spell-list) later in the class's description.
+You have learned to cast spells through prayer and meditation. See Chapter 7 for the rules on Spellcasting. The Information below details how you use those rules with Paladin spells, which appear in the [[Paladin spell list]] later in the class's description.
 
 **Spell Slots.** The Paladin Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
-**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Paladin spells. [Heroism](https://dnd2024.wikidot.com/spell:heroism) and [Searing Smite](https://dnd2024.wikidot.com/spell:searing-smite) are recommended.
+**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Paladin spells. [[Heroism]] and [[Searing Smite]] are recommended.
 
 The number of spells on your list increases as you gain Paladin levels, as shown in the Prepared Spells column of the Paladin Features table. Whenever that number increases, choose additional spells from the Paladin spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Paladin, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
@@ -103,18 +105,13 @@ If another Paladin feature gives you spells that you always have prepared, those
 **Spellcasting Focus.** You can use a Holy Symbol as a Spellcasting Focus for your Paladin spells.
 
 ### Level 1: Weapon Mastery
-Your training with weapons allows you to use the mastery properties of two kinds of weapons of your choice with which you have proficiency, such as Longswords and Javelins.
+Your training with weapons allows you to use the [[Stances & Masteries]] with three points. Whenever you finish a Long Rest, you can practice weapon drills and change one of those choices..
 
-Whenever you finish a Long Rest, you can change the kinds of weapons you chose. For Example, you could switch to using the mastery properties of Halberds and Flails.
-
-### Level 2: Fighting Style
-You gain a [Fighting Style feat](https://dnd2024.wikidot.com/feat:all) of your choice (see chapter 5). Instead of choosing one of those feats, you can choose the option below.
-
-**Blessed Warrior.** You learn two Cleric cantrips of your choice (See the Cleric class's section for a list of Cleric spells). [Guidance](https://dnd2024.wikidot.com/spell:guidance) and [Sacred Flame](https://dnd2024.wikidot.com/spell:sacred-flame) are recommended. The chosen cantrips count as Paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a Paladin level, you can replace one of these cantrips with another Cleric cantrip.
+Additionally, you can spend a point to gain the following:
+**Blessed Warrior.** You learn two Cleric cantrips of your choice (See the Cleric class's section for a list of Cleric spells). [[Guidance]] and [[Sacred Flame]] are recommended. The chosen cantrips count as Paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a Paladin level, you can replace one of these cantrips with another Cleric cantrip.
 
 ### Level 2: Paladin's Smite
-You always have the [Divine Smite](https://dnd2024.wikidot.com/spell:divine-smite) spell prepared.  
-You can cast it without expending a spell slot, but you must finish a Long Rest before you can cast it this way again.
+Starting at 2nd-level, you always have the [[Divine Smite]] spell prepared. In addition, during a Long Rest, you may select a number of additional smite powers equal to your Charisma modifier (minimum 1). These smite powers must be appropriate for your level and don't count towards your number of prepared spells. You can cast Divine Smite without expending a spell slot, but you must finish a Long Rest before you can cast it this way again.
 
 ### Level 3: Channel Divinity
 You can channel divine energy directly from the Outer Planes, using it to fuel magical effects. You start with one such effect: Divine Sense, which is described below. Other Paladin features give additional Channel Divinity effect options. Each time you use this class's Channel Divinity, you choose which effect from this class to create.
@@ -123,7 +120,7 @@ You can use this class's Channel Divinity twice. You regain one of its expended 
 
 If a Channel Divinity effect requires a saving throw, the DC equals the spell save DC from this class's Spellcasting Feature.
 
-**Divine Sense.** As a Bonus Action, you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the Incapacitated condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [Hallow](https://dnd2024.wikidot.com/spell:hallow) spell.
+**Divine Sense.** As a Bonus Action, you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the Incapacitated condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [[Hallow]] spell.
 
 ### Level 3: Paladin Subclass
 You gain a Paladin Subclass of your choice. A Subclass is a specialization that grants you features at certain Paladin levels. For the rest of your career, you gain each of your subclass’s features that are of your Paladin level or lower.
@@ -138,14 +135,14 @@ A Paladin who has broken a vow typically seeks absolution, spending an all-night
 If your Paladin unrepentantly violates their oath, talk to your DM. Your Paladin should probably take a more appropriate subclass or even abandon the class and adopt another one.
 
 ### Level 4: Ability Score Improvement
-You gain the [Ability Score Improvement feat](https://dnd2024.wikidot.com/feat:ability-score-improvement) or another [feat of your choice](https://dnd2024.wikidot.com/feat:all) for which you qualify. You gain this feature again at Paladin levels 8, 12, and 16.
+You gain the [[Ability Score Improvement]] feat or another [[Feats|feat of your choice]] for which you qualify. You gain this feature again at Paladin levels 8, 12, and 16.
 
 ### Level 5: Extra Attack
 You can attack twice instead of once whenever you take the Attack action on your turn.
 
 ### Level 5: Faithful Steed
 You can call on the aid of an otherworldly steed.  
-You always have the [Find Steed](https://dnd2024.wikidot.com/spell:find-steed) spell prepared.
+You always have the [[Find Steed]] spell prepared.
 
 You can also cast the spell once without expending a spell slot, and you regain your ability to do so when you finish a Long Rest.
 
@@ -172,4 +169,4 @@ When you use Lay On Hands on a creature, you can also remove one or more of the 
 Your Aura of Protection is now a 30-foot Emanation.
 
 ### Level 19: Epic Boon
-You gain an [Epic Boon feat](https://dnd2024.wikidot.com/feat:all) or another feat of your choice for which you qualify. [Boon of Truesight](https://dnd2024.wikidot.com/feat:boon-of-truesight) is recommended.
+You gain an [[Feats|Epic Boon feat]] or another feat of your choice for which you qualify. [[Boon of Truesight]] is recommended.

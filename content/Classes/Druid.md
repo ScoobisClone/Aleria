@@ -21,33 +21,34 @@ Starting Equipment: "Choose A or B: (A) Leather Armor, Shield, Sickle, Druidic F
 - Gain the Druid’s level 1 features, which are listed in the Druid Features table.
 ## As a Multiclass Druid
 - Gain the following traits from the Core Druid Traits table: Hit Point Die and training with Light armor and Shields.
-- Gain the Druid’s level 1 features, which are listed in the Druid Features table. See the multiclassing rules in [multiclassing](https://dnd2024.wikidot.com/class:multiclassing) to determine your available spell slots.
+- Gain the Druid’s level 1 features, which are listed in the Druid Features table. See the multiclassing rules in [[Multiclassing]] to determine your available spell slots.
 
 # Druid Class Features
 ###### Druid Features (Part A)
 
 |Level|Proficiency Bonus|Features|
 |---|---|---|
-|1|+2|[Spellcasting](https://dnd2024.wikidot.com/druid:main#Spellcasting), [Druidic](https://dnd2024.wikidot.com/druid:main#Druidic), [Primal Order](https://dnd2024.wikidot.com/druid:main#Primal-Order)|
-|2|+2|[Wild Shape](https://dnd2024.wikidot.com/druid:main#Wild-Shape), [Wild Companion](https://dnd2024.wikidot.com/druid:main#Wild-Companion)|
-|3|+2|[Druid Subclass](https://dnd2024.wikidot.com/druid:main#Druid-Subclass)|
-|4|+2|[Ability Score Improvement](https://dnd2024.wikidot.com/druid:main#Ability-Score-Improvement)|
-|5|+3|[Wild Resurgence](https://dnd2024.wikidot.com/druid:main#Wild-Resurgence)|
-|6|+3|[Subclass Feature](https://dnd2024.wikidot.com/druid:main#Subclass-Feature)|
-|7|+3|[Elemental Fury](https://dnd2024.wikidot.com/druid:main#Elemental-Fury)|
-|8|+3|[Ability Score Improvement](https://dnd2024.wikidot.com/druid:main#Ability-Score-Improvement)|
+|1|+2|[[#Level 1: Spellcasting\|Spellcasting]], [[#Level 1: Druidic\|Druidic]], [[#Level 1: Primal Order\|Primal Order]]|
+|2|+2|[[#Level 2: Wild Shape\|Wild Shape]], [[#Level 2: Wild Companion\|Wild Companion]]|
+|3|+2|[[#Level 3: Druid Subclass\|Druid Subclass]]|
+|4|+2|[[#Level 4: Ability Score Improvement\|Ability Score Improvement]]|
+|5|+3|[[#Level 5: Wild Resurgence\|Wild Resurgence]]|
+|6|+3|[[#Level 3: Druid Subclass\|Subclass Feature]]|
+|7|+3|[[#Level 7: Elemental Fury\|Elemental Fury]]|
+|8|+3|[[#Level 4: Ability Score Improvement\|Ability Score Improvement]]|
 |9|+4|-|
-|10|+4|[Subclass Feature](https://dnd2024.wikidot.com/druid:main#Subclass-Feature)|
+|10|+4|[[#Level 3: Druid Subclass\|Subclass Feature]]|
 |11|+4|-|
-|12|+4|[Ability Score Improvement](https://dnd2024.wikidot.com/druid:main#Ability-Score-Improvement)|
+|12|+4|[[#Level 4: Ability Score Improvement\|Ability Score Improvement]]|
 |13|+5|-|
-|14|+5|[Subclass Feature](https://dnd2024.wikidot.com/druid:main#Subclass-Feature)|
-|15|+5|[Improved Elemental Fury](https://dnd2024.wikidot.com/druid:main#Improved-Elemental-Fury)|
-|16|+5|[Ability Score Improvement](https://dnd2024.wikidot.com/druid:main#Ability-Score-Improvement)|
+|14|+5|[[#Level 3: Druid Subclass\|Subclass Feature]]|
+|15|+5|[[#Level 15: Improved Elemental Fury\|Improved Elemental Fury]]|
+|16|+5|[[#Level 4: Ability Score Improvement\|Ability Score Improvement]]|
 |17|+6|-|
-|18|+6|[Beast Spells](https://dnd2024.wikidot.com/druid:main#Beast-Spells)|
-|19|+6|[Epic Boon](https://dnd2024.wikidot.com/druid:main#Epic-Boon)|
-|20|+6|[Archdruid](https://dnd2024.wikidot.com/druid:main#Archdruid)|
+|18|+6|[[#Level 18: Beast Spells\|Beast Spells]]|
+|19|+6|[[#Level 19: Epic Boon\|Epic Boon]]|
+|20|+6|[[#Level 20: Archdruid\|Archdruid]]|
+
 ###### Druid Features (Part B)
 
 |Level|Wild Shape|Cantrips|Prepared Spells|1st|2nd|3rd|4th|5th|6th|7th|8th|9th|
@@ -72,20 +73,21 @@ Starting Equipment: "Choose A or B: (A) Leather Armor, Shield, Sickle, Druidic F
 |18|4|4|20|4|3|3|3|3|1|1|1|1|
 |19|4|4|21|4|3|3|3|3|2|1|1|1|
 |20|4|4|22|4|3|3|3|3|2|2|1|1|
+
 As a Druid, you gain the following class features when you reach the specified Druid levels. These features are listed in the Druid Features table.
 
 ### Level 1: Spellcasting
-You have learned to cast spells through studying the mystical forces of nature. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Druid spells, which appear on the [Druid spell list](https://dnd2024.wikidot.com/druid:spell-list) later in the class’s description.
+You have learned to cast spells through studying the mystical forces of nature. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Druid spells, which appear on the [[Druid spell list]] later in the class’s description.
 
-**Cantrips.** You know two cantrips of your choice from the Druid spell list. [Druidcraft](https://dnd2024.wikidot.com/spell:druidcraft) and [Produce Flame](https://dnd2024.wikidot.com/spell:produce-flame) are recommended.
+**Cantrips.** You know two cantrips of your choice from the Druid spell list. [[Druidcraft]] and [[Produce Flame]] are recommended.
 
-Whenever you gain a Druid level, you can replace one of your cantrips with another cantrip of your choice from the [Druid spell list](https://dnd2024.wikidot.com/druid:spell-list).
+Whenever you gain a Druid level, you can replace one of your cantrips with another cantrip of your choice from the [[Druid spell list]].
 
 When you reach Druid levels 4 and 10, you learn another cantrip of your choice from the Druid spell list, as shown in the Cantrips column of the Druid Features table.
 
 **Spell Slots.** The Druid Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
-**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Druid spell list. [Animal Friendship](https://dnd2024.wikidot.com/spell:animal-friendship), [Cure Wounds](https://dnd2024.wikidot.com/spell:cure-wounds), [Faerie Fire](https://dnd2024.wikidot.com/spell:faerie-fire), and [Thunderwave](https://dnd2024.wikidot.com/spell:thunderwave) are recommended.
+**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Druid spell list. [[Animal Friendship]], [[Cure Wounds]], [[Faerie Fire]], and [[Thunderwave]] are recommended.
 
 The number of spells on your list increases as you gain Druid levels, as shown in the Prepared Spells column of the Druid Features table. Whenever that number increases, choose additional spells from the Druid spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 3 Druid, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
@@ -98,7 +100,7 @@ If another Druid feature gives you spells that you always have prepared, those s
 **Spellcasting Focus.** You can use a Druidic Focus as a Spellcasting Focus for your Druid spells.
 
 ### Level 1: Druidic
-You know Druidic, the secret language of Druids. While learning this ancient tongue, you also unlocked the magic of communicating with animals; you always have the [Speak with Animals](https://dnd2024.wikidot.com/spell:speak-with-animals) spell prepared.
+You know Druidic, the secret language of Druids. While learning this ancient tongue, you also unlocked the magic of communicating with animals; you always have the [[Speak with Animals]] spell prepared.
 
 You can use Druidic to leave hidden messages. You and others who know Druidic automatically spot such a message. Others spot the message’s presence with a successful DC 15 Intelligence (Investigation) check but can’t decipher it without magic.
 
@@ -110,23 +112,33 @@ You have dedicated yourself to one of the following sacred roles of your choice.
 **Warden.** Trained for battle, you gain proficiency with Martial weapons and training with Medium armor.
 
 ### Level 2: Wild Shape
-The power of nature allows you to assume the form of an animal. As a Bonus Action, you shape-shift into a Beast form that you have learned for this feature (see “Known Forms” below). You stay in that form for a number of hours equal to half your Druid level or until you use Wild Shape again, have the Incapacitated condition, or die. You can also leave the form early as a Bonus Action.
+The power of nature allows you to assume the form of an animal. As a Bonus Action, you shape-shift into a Beast form that you have learned for this feature (see “Wild Bestiary” below). You stay in that form for a number of hours equal to half your Druid level or until you use Wild Shape again, have the Incapacitated condition, or die. You can also leave the form early as a Bonus Action.
 
 **Number of Uses.** You can use Wild Shape twice. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.
 
 You gain additional uses when you reach certain Druid levels, as shown in the Wild Shape column of the Druid Features table.
 
-**Known Forms.** You know four Beast forms for this feature, chosen from among Beast stat blocks that have a maximum Challenge Rating of 1/4 and that lack a Fly Speed (see appendix B for stat block options). The Rat, Riding Horse, Spider, and Wolf are recommended. Whenever you finish a Long Rest, you can replace one of your known forms with another eligible form.
+**Wild Bestiary.** As a druid, you can shapeshift into a number of different wild shapes—this collection is called your *wild bestiary*. Your bestiary can hold a total number of shapes equal to your druid level. If you forget a shape from your bestiary, you will have to relearn it again.
 
-When you reach certain Druid levels, your number of known forms and the maximum Challenge Rating for those forms increases, as shown in the Beast Shapes table. In addition, starting at level 8, you can adopt a form that has a Fly Speed.
+**Beast Shapes.** When you reach certain Druid levels, the maximum Challenge Rating for the forms in your bestiary increases, as shown in the Beast Shapes table. In addition, starting at level 8, you can adopt a form that has a Fly Speed.
 
 When choosing known forms, you may look in the Monster Manual or elsewhere for eligible Beasts if the Dungeon Master permits you to do so.
 
-|Druid Level|Known Forms|Max CR|Fly Speed|
-|---|---|---|---|
-|2|4|1/4|No|
-|4|6|1/2|No|
-|8|8|1|Yes|
+|Druid Level|Max CR|Fly Speed|
+|---|---|---|
+|2|1/4|No|
+|4|1/2|No|
+|8|1|Yes|
+
+**Learning a New Wild Shape.** To add a new shape to your bestiary (or replace an existing one), you must closely observe a live beast to study it. This requires 1 hour of focus per CR of the beast (minimum 1 hour), during which you develop a primal understanding of the creature’s essence.
+
+If the beast is friendly, reduce the required time by half—but if it is acting hostile, double the time.
+
+*Interrupted Focus:* If your efforts are significantly interrupted—the beast escapes, you fall asleep, a combat encounter begins, etc—you lose your focus and must start your observations again from the beginning.
+
+**Going on a Wild Hunt.** To find a beast and master its wild shape, many druids begin a *wild hunt*. Depending on the beast, location, and the length of time required, you may need to make several skill checks during your wild hunt to see if you are successful in your efforts.
+
+Skills (such as Animal Handling, Insight, Nature, Stealth, and Survival) and magic spells (such as [[Animal Friendship]], [[Speak with Animals]], and [[Locate Animals or Plants]]) may be of particular help during a wild hunt.
 
 _**Rules While Shape-Shifted.**_ While in a form, you retain your personality, memories, and ability to speak, and the following rules apply:
 
@@ -139,7 +151,7 @@ _**Rules While Shape-Shifted.**_ While in a form, you retain your personality, m
 **Objects.** Your ability to handle objects is determined by the form’s limbs rather than your own. In addition, you choose whether your equipment falls in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it’s practical for the new form to wear a piece of equipment based on the creature’s size and shape. Your equipment doesn’t change size or shape to match the new form, and any equipment that the new form can’t wear must either fall to the ground or merge with the form. Equipment that merges with the form has no effect while you’re in that form.
 
 ### Level 2: Wild Companion
-You can summon a nature spirit that assumes an animal form to aid you. As a Magic action, you can expend a spell slot or a use of Wild Shape to cast the [Find Familiar](https://dnd2024.wikidot.com/spell:find-familiar) spell without Material components.
+You can summon a nature spirit that assumes an animal form to aid you. As a Magic action, you can expend a spell slot or a use of Wild Shape to cast the [[Find Familiar]] spell without Material components.
 
 When you cast the spell in this way, the familiar is Fey and disappears when you finish a Long Rest.
 
@@ -149,7 +161,7 @@ You gain a Druid subclass of your choice. A subclass is a specialization that gr
 ##### Druid Subclasses
 
 ### Level 4: Ability Score Improvement
-You gain the [Ability Score Improvement feat](https://dnd2024.wikidot.com/feat:ability-score-improvement) or another [feat of your choice](https://dnd2024.wikidot.com/feat:all) for which you qualify. You gain this feature again at Druid levels 8, 12, and 16.
+You gain the [[Ability Score Improvement]] feat or another [[Feats|feat of your choice]] for which you qualify. You gain this feature again at Druid levels 8, 12, and 16.
 
 ### Level 5: Wild Resurgence
 Once on each of your turns, if you have no uses of Wild Shape left, you can give yourself one use by expending a spell slot (no action required).
@@ -174,7 +186,7 @@ The option you chose for Elemental Fury grows more powerful, as detailed below.
 While using Wild Shape, you can cast spells in Beast form, except for any spell that has a Material component with a cost specified or that consumes its Material component.
 
 ### Level 19: Epic Boon
-You gain an [Epic Boon feat](https://dnd2024.wikidot.com/feat:all) or another feat of your choice for which you qualify. [Boon of Dimensional Travel](https://dnd2024.wikidot.com/feat:boon-of-dimensional-travel) is recommended.
+You gain an [[Feats|Epic Boon feat]] or another feat of your choice for which you qualify. [[Boon of Dimensional Travel]] is recommended.
 
 ### Level 20: Archdruid
 The vitality of nature constantly blooms within you, granting you the following benefits.
