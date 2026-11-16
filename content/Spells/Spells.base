@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: View
+    filters:
+      and:
+        - file.hasTag("spell")
+    order:
+      - file.name
+      - level
+      - school
+      - ritual
+      - concentration
+      - classes

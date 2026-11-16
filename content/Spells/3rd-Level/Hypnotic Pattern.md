@@ -1,0 +1,32 @@
+---
+level: 3
+school: Illusion
+casting_time: 1 action
+range: 120 feet
+components:
+  - S
+  - M
+material: a glowing stick of incense or a crystal vial filled with phosphorescent material
+duration: Concentration, up to 1 minute
+concentration: true
+ritual: false
+classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
+source: Player's Handbook (2024)
+tags:
+  - spell
+  - Illusion
+  - 3rd-Level
+---
+# Hypnotic Pattern
+> [!info] Quick Reference
+> **Level** 3 (Illusion) · **Casting Time** 1 action · **Range** 120 feet
+> **Components** S, M (a glowing stick of incense or a crystal vial filled with phosphorescent material)
+> **Duration** Concentration, up to 1 minute
+## Description
+You create a twisting pattern of colors that weaves through the air inside a 30-foot cube within range. The pattern appears for a moment and vanishes. Each creature in the area who sees the pattern must make a Wisdom saving throw. On a failed save, the creature becomes charmed for the duration. While charmed by this spell, the creature is incapacitated and has a speed of 0.
+
+The spell ends for an affected creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor.

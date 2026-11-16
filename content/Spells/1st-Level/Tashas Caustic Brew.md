@@ -1,0 +1,39 @@
+---
+level: 1
+school: Evocation
+casting_time: 1 action
+range: Self (30-foot line)
+components:
+  - V
+  - S
+  - M
+material: a bit of rotten food
+duration: Concentration, up to 1 minute
+concentration: true
+ritual: false
+classes:
+source: Player's Handbook (2024)
+tags:
+  - spell
+  - Evocation
+  - 1st-Level
+---
+# Tashas Caustic Brew
+> [!info] Quick Reference
+> **Level** 1 (Evocation) · **Casting Time** 1 action · **Range** Self (30-foot line)
+> **Components** V, S, M (a bit of rotten food)
+> **Duration** Concentration, up to 1 minute
+## Description
+A stream of acid emanates from you in a line 30 feet long and 5 feet wide in a direction you choose. Each creature in the line must succeed on a Dexterity saving throw or be covered in acid for the spell’s duration or until a creature uses its action to scrape or wash the acid off itself or another creature. A creature covered in the acid takes 2d4 acid damage at the start of each of its turns.
+
+Artificer
+
+,
+
+Sorcerer (Optional)
+
+,
+
+Wizard (Optional)
+### At Higher Levels
+When you cast this spell using a spell slot 2nd level or higher, the damage increases by 2d4 for each slot level above 1st.

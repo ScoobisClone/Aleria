@@ -1,0 +1,28 @@
+---
+level: 5
+school: Evocation
+casting_time: 1 action
+range: 120 feet
+components:
+  - V
+  - S
+  - M
+material: paper or leaf in the shape of a funnel
+duration: Concentration, up to 1 minute
+concentration: true
+ritual: false
+classes:
+  - Druid
+source: Player's Handbook (2024)
+tags:
+  - spell
+  - Evocation
+  - 5th-Level
+---
+# Maelstrom
+> [!info] Quick Reference
+> **Level** 5 (Evocation) · **Casting Time** 1 action · **Range** 120 feet
+> **Components** V, S, M (paper or leaf in the shape of a funnel)
+> **Duration** Concentration, up to 1 minute
+## Description
+A mass of 5-foot-deep water appears and swirls in a 30-foot radius centered on a point you can see within range. The point must be on ground or in a body of water. Until the spell ends, that area is difficult terrain, and any creature that starts its turn there must succeed on a Strength saving throw or take 6d6 bludgeoning damage and be pulled 10 feet toward the center.

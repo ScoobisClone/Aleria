@@ -1,0 +1,51 @@
+---
+level: 2
+school: Illusion
+casting_time: 1 Action
+range: 60ft
+components:
+  - S
+  - M
+material: a piece of crust from an apple pie
+duration: Concentration, up to 1 minute
+concentration: true
+ritual: false
+classes:
+  - Bard
+  - Sorcerer
+  - Wizard
+source: Player's Handbook (2024)
+tags:
+  - spell
+  - Illusion
+  - 2nd-Level
+---
+# Nathairs Mischief
+> [!info] Quick Reference
+> **Level** 2 (Illusion) · **Casting Time** 1 Action · **Range** 60ft
+> **Components** S, M (a piece of crust from an apple pie)
+> **Duration** Concentration, up to 1 minute
+## Description
+You fill a 20-foot cube you can see within range with fey and draconic magic. Roll on the Mischievous Surge table to determine the magical effect produced, and roll again at the start of each of your turns until the spell ends. You can move the cube up to 10 feet before you roll.
+
+Mischievous Surge
+
+d4
+
+Effect
+
+1
+
+The smell of apple pie fills the air, and each creature in the cube must succeed on a Wisdom saving throw or become charmed by you until the start of your next turn.
+
+2
+
+Bouquets of flowers appear all around, and each creature in the cube must succeed on a Dexterity saving throw or be blinded until the start of your next turn as the flowers spray water in their faces.
+
+3
+
+Each creature in the cube must succeed on a Wisdom saving throw or begin giggling until the start of your next turn. A giggling creature is incapacitated and uses all its movement to move in a random direction.
+
+4
+
+Drops of molasses appear and hover in the cube, turning it into difficult terrain until the start of your next turn.

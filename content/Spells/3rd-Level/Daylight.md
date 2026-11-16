@@ -1,0 +1,35 @@
+---
+level: 3
+school: Evocation
+casting_time: 1 action
+range: 60 feet
+components:
+  - V
+  - S
+material: 
+duration: 1 hour
+concentration: false
+ritual: false
+classes:
+  - Cleric
+  - Druid
+  - Paladin
+  - Ranger
+  - Sorcerer
+source: Player's Handbook (2024)
+tags:
+  - spell
+  - Evocation
+  - 3rd-Level
+---
+# Daylight
+> [!info] Quick Reference
+> **Level** 3 (Evocation) · **Casting Time** 1 action · **Range** 60 feet
+> **Components** V, S
+> **Duration** 1 hour
+## Description
+A 60-foot-radius sphere of light spreads out from a point you choose within range. The sphere is bright light and sheds dim light for an additional 60 feet.
+
+If you chose a point on an object you are holding or one that isn’t being worn or carried, the light shines from the object with and moves with it. Completely covering the affected object with an opaque object, such as a bowl or a helm, blocks the light.
+
+If any of this spell’s area overlaps with an area of darkness created by a spell of 3rd level or lower, the spell that created the darkness is dispelled.

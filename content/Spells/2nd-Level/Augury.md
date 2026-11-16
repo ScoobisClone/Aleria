@@ -1,0 +1,47 @@
+---
+level: 2
+school: Divination
+casting_time: 1 minute
+range: Self
+components:
+  - V
+  - S
+  - M
+material: specially marked sticks, bones, or similar tokens worth at least 25 gp
+duration: Instantaneous
+concentration: false
+ritual: false
+classes:
+source: Player's Handbook (2024)
+tags:
+  - spell
+  - Divination
+  - 2nd-Level
+---
+# Augury
+> [!info] Quick Reference
+> **Level** 2 (Divination) · **Casting Time** 1 minute · **Range** Self
+> **Components** V, S, M (specially marked sticks, bones, or similar tokens worth at least 25 gp)
+> **Duration** Instantaneous
+## Description
+By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divining tool, you receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take within the next 30 minutes. The DM chooses from the following possible omens:
+
+Weal, for good results
+
+Woe, for bad results
+
+Weal and woe, for both good and bad results
+
+Nothing, for results that aren’t especially good or bad
+
+The spell doesn’t take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion. If you cast the spell two or more times before completing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get a random reading. The DM makes this roll in secret.
+
+Cleric
+
+,
+
+Druid (Optional)
+
+,
+
+Wizard (Optional)
