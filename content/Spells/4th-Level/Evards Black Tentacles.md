@@ -13,6 +13,7 @@ concentration: true
 ritual: false
 classes:
   - Wizard
+  - Witch
 source: Player's Handbook (2024)
 tags:
   - spell

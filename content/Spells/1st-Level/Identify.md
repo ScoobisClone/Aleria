@@ -15,6 +15,8 @@ classes:
   - Artificer
   - Bard
   - Wizard
+  - Investigator
+  - Necromancer
 source: Player's Handbook (2024)
 tags:
   - spell

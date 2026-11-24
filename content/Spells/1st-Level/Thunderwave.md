@@ -6,7 +6,7 @@ range: Self (15-foot cube)
 components:
   - V
   - S
-material: 
+material:
 duration: Instantaneous
 concentration: false
 ritual: false
@@ -15,6 +15,7 @@ classes:
   - Druid
   - Sorcerer
   - Wizard
+  - Witch
 source: Player's Handbook (2024)
 tags:
   - spell

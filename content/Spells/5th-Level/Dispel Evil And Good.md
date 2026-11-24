@@ -14,6 +14,9 @@ ritual: false
 classes:
   - Cleric
   - Paladin
+  - Martyr
+  - Necromancer
+  - Witch
 source: Player's Handbook (2024)
 tags:
   - spell

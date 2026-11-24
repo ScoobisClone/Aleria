@@ -17,6 +17,7 @@ classes:
   - Ranger
   - Sorcerer
   - Wizard
+  - Martyr
 source: Player's Handbook (2024)
 tags:
   - spell

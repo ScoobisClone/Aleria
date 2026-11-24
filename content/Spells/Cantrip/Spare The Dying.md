@@ -6,13 +6,14 @@ range: Touch
 components:
   - V
   - S
-material: 
+material:
 duration: Instantaneous
 concentration: false
 ritual: false
 classes:
   - Artificer
   - Cleric
+  - Witch
 source: Player's Handbook (2024)
 tags:
   - spell

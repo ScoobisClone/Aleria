@@ -13,6 +13,7 @@ concentration: false
 ritual: false
 classes:
   - Wizard
+  - Necromancer
 source: Player's Handbook (2024)
 tags:
   - spell

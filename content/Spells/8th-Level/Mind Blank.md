@@ -6,13 +6,15 @@ range: Touch
 components:
   - V
   - S
-material: 
+material:
 duration: 24 hours
 concentration: false
 ritual: false
 classes:
   - Bard
   - Wizard
+  - Necromancer
+  - Witch
 source: Player's Handbook (2024)
 tags:
   - spell

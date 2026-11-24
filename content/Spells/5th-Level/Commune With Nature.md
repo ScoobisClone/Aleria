@@ -6,13 +6,14 @@ range: Self
 components:
   - V
   - S
-material: 
+material:
 duration: Instantaneous
 concentration: false
 ritual: false
 classes:
   - Druid
   - Ranger
+  - Investigator
 source: Player's Handbook (2024)
 tags:
   - spell

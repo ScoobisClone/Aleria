@@ -6,7 +6,7 @@ range: Touch
 components:
   - V
   - S
-material: 
+material:
 duration: Instantaneous
 concentration: false
 ritual: false
@@ -14,6 +14,8 @@ classes:
   - Artificer
   - Sorcerer
   - Wizard
+  - Necromancer
+  - Warmage
 source: Player's Handbook (2024)
 tags:
   - spell

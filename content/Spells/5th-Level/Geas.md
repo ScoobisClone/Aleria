@@ -5,7 +5,7 @@ casting_time: 1 minute
 range: 60 feet
 components:
   - V
-material: 
+material:
 duration: 30 days
 concentration: false
 ritual: false
@@ -15,6 +15,8 @@ classes:
   - Druid
   - Paladin
   - Wizard
+  - Martyr
+  - Witch
 source: Player's Handbook (2024)
 tags:
   - spell

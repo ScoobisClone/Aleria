@@ -14,6 +14,7 @@ ritual: false
 classes:
   - Druid
   - Wizard
+  - Witch
 source: Player's Handbook (2024)
 tags:
   - spell

@@ -15,6 +15,8 @@ classes:
   - Sorcerer
   - Warlock
   - Wizard
+  - Warmage
+  - Witch
 source: Player's Handbook (2024)
 tags:
   - spell

@@ -15,6 +15,8 @@ classes:
   - Bard
   - Druid
   - Ranger
+  - Investigator
+  - Witch
 source: Player's Handbook (2024)
 tags:
   - spell

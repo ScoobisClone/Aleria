@@ -5,13 +5,14 @@ casting_time: 1 action
 range: Self
 components:
   - V
-material: 
+material:
 duration: 1 hour
 concentration: false
 ritual: false
 classes:
   - Bard
   - Warlock
+  - Witch
 source: Player's Handbook (2024)
 tags:
   - spell

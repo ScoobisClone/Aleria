@@ -6,7 +6,7 @@ range: Sight
 components:
   - V
   - S
-material: 
+material:
 duration: 10 days
 concentration: false
 ritual: false
@@ -14,6 +14,7 @@ classes:
   - Bard
   - Druid
   - Wizard
+  - Witch
 source: Player's Handbook (2024)
 tags:
   - spell

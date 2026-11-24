@@ -6,12 +6,14 @@ range: 30 feet
 components:
   - V
   - S
-material: 
+material:
 duration: 1 hour
 concentration: false
 ritual: false
 classes:
   - Wizard
+  - Necromancer
+  - Investigator
 source: Player's Handbook (2024)
 tags:
   - spell

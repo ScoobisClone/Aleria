@@ -16,6 +16,8 @@ classes:
   - Cleric
   - Sorcerer
   - Wizard
+  - Necromancer
+  - Warmage
 source: Player's Handbook (2024)
 tags:
   - spell

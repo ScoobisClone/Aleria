@@ -6,13 +6,17 @@ range: Self
 components:
   - V
   - S
-material: 
+material:
 duration: Concentration, up to 10 minutes
 concentration: true
 ritual: false
 classes:
   - Cleric
   - Paladin
+  - Investigator
+  - Martyr
+  - Necromancer
+  - Witch
 source: Player's Handbook (2024)
 tags:
   - spell

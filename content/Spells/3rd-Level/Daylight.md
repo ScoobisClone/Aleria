@@ -6,7 +6,7 @@ range: 60 feet
 components:
   - V
   - S
-material: 
+material:
 duration: 1 hour
 concentration: false
 ritual: false
@@ -16,6 +16,7 @@ classes:
   - Paladin
   - Ranger
   - Sorcerer
+  - Martyr
 source: Player's Handbook (2024)
 tags:
   - spell

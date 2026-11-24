@@ -6,13 +6,14 @@ range: 60 feet
 components:
   - V
   - S
-material: 
+material:
 duration: 1 minute
 concentration: false
 ritual: false
 classes:
   - Bard
   - Warlock
+  - Witch
 source: Player's Handbook (2024)
 tags:
   - spell

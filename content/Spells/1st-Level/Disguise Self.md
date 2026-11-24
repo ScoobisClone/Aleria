@@ -6,7 +6,7 @@ range: Self
 components:
   - V
   - S
-material: 
+material:
 duration: 1 hour
 concentration: false
 ritual: false
@@ -15,6 +15,8 @@ classes:
   - Bard
   - Sorcerer
   - Wizard
+  - Investigator
+  - Martyr
 source: Player's Handbook (2024)
 tags:
   - spell

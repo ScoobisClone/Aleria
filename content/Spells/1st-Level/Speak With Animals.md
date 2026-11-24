@@ -6,7 +6,7 @@ range: Self
 components:
   - V
   - S
-material: 
+material:
 duration: 10 minutes
 concentration: false
 ritual: false
@@ -14,6 +14,8 @@ classes:
   - Bard
   - Druid
   - Ranger
+  - Investigator
+  - Witch
 source: Player's Handbook (2024)
 tags:
   - spell

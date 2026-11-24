@@ -15,6 +15,7 @@ classes:
   - Sorcerer
   - Warlock
   - Wizard
+  - Necromancer
 source: Player's Handbook (2024)
 tags:
   - spell

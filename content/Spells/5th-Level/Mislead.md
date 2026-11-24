@@ -5,12 +5,13 @@ casting_time: 1 action
 range: Self
 components:
   - S
-material: 
+material:
 duration: Concentration, up to 1 hour
 concentration: true
 ritual: false
 classes:
   - Wizard
+  - Witch
 source: Player's Handbook (2024)
 tags:
   - spell

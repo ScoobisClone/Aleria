@@ -18,6 +18,10 @@ classes:
   - Paladin
   - Ranger
   - Wizard
+  - Investigator
+  - Martyr
+  - Necromancer
+  - Witch
 source: Player's Handbook (2024)
 tags:
   - spell

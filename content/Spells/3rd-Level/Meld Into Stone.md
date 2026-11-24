@@ -6,11 +6,15 @@ range: Touch
 components:
   - V
   - S
-material: 
+material:
 duration: 8 hours
 concentration: false
 ritual: false
 classes:
+  - Cleric
+  - Druid
+  - Ranger
+  - Investigator
 source: Player's Handbook (2024)
 tags:
   - spell

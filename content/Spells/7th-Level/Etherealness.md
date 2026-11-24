@@ -6,7 +6,7 @@ range: Self
 components:
   - V
   - S
-material: 
+material:
 duration: Up to 8 hours
 concentration: false
 ritual: false
@@ -16,6 +16,8 @@ classes:
   - Sorcerer
   - Warlock
   - Wizard
+  - Necromancer
+  - Witch
 source: Player's Handbook (2024)
 tags:
   - spell

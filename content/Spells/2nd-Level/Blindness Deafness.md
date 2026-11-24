@@ -5,7 +5,7 @@ casting_time: 1 action
 range: 30 feet
 components:
   - V
-material: 
+material:
 duration: 1 minute
 concentration: false
 ritual: false
@@ -14,6 +14,8 @@ classes:
   - Cleric
   - Sorcerer
   - Wizard
+  - Necromancer
+  - Witch
 source: Player's Handbook (2024)
 tags:
   - spell

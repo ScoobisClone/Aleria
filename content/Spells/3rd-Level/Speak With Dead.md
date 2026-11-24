@@ -12,6 +12,12 @@ duration: 10 minutes
 concentration: false
 ritual: false
 classes:
+  - Bard
+  - Cleric
+  - Wizard
+  - Martyr
+  - Necromancer
+  - Witch
 source: Player's Handbook (2024)
 tags:
   - spell

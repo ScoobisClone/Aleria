@@ -6,13 +6,15 @@ range: Touch
 components:
   - V
   - S
-material: 
+material:
 duration: 7 days
 concentration: false
 ritual: false
 classes:
   - Cleric
   - Druid
+  - Necromancer
+  - Witch
 source: Player's Handbook (2024)
 tags:
   - spell

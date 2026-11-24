@@ -14,6 +14,7 @@ ritual: false
 classes:
   - Cleric
   - Wizard
+  - Necromancer
 source: Player's Handbook (2024)
 tags:
   - spell

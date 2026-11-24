@@ -12,6 +12,13 @@ duration: 8 hours
 concentration: false
 ritual: false
 classes:
+  - Artificer
+  - Bard
+  - Cleric
+  - Druid
+  - Paladin
+  - Ranger
+  - Martyr
 source: Player's Handbook (2024)
 tags:
   - spell

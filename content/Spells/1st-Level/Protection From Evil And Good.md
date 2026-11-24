@@ -15,6 +15,9 @@ classes:
   - Paladin
   - Warlock
   - Wizard
+  - Martyr
+  - Necromancer
+  - Witch
 source: Player's Handbook (2024)
 tags:
   - spell

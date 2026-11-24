@@ -15,6 +15,7 @@ classes:
   - Bard
   - Cleric
   - Paladin
+  - Martyr
 source: Player's Handbook (2024)
 tags:
   - spell

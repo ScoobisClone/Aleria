@@ -6,7 +6,7 @@ range: 60 feet
 components:
   - V
   - S
-material: 
+material:
 duration: Instantaneous
 concentration: false
 ritual: false
@@ -15,6 +15,8 @@ classes:
   - Sorcerer
   - Warlock
   - Wizard
+  - Necromancer
+  - Witch
 source: Player's Handbook (2024)
 tags:
   - spell

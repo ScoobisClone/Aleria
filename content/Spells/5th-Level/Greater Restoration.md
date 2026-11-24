@@ -12,6 +12,13 @@ duration: Instantaneous
 concentration: false
 ritual: false
 classes:
+  - Artificer
+  - Bard
+  - Cleric
+  - Druid
+  - Ranger
+  - Paladin
+  - Martyr
 source: Player's Handbook (2024)
 tags:
   - spell

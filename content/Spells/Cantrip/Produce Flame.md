@@ -6,12 +6,14 @@ range: Self
 components:
   - V
   - S
-material: 
+material:
 duration: 10 minutes
 concentration: false
 ritual: false
 classes:
   - Druid
+  - Warmage
+  - Witch
 source: Player's Handbook (2024)
 tags:
   - spell

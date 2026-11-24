@@ -14,6 +14,7 @@ ritual: false
 classes:
   - Druid
   - Ranger
+  - Necromancer
 source: Player's Handbook (2024)
 tags:
   - spell

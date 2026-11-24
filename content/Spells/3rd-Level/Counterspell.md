@@ -5,7 +5,7 @@ casting_time: 1 reaction, which you take when you see a creature within 60 feet 
 range: 60 feet
 components:
   - S
-material: 
+material:
 duration: Instantaneous
 concentration: false
 ritual: false
@@ -13,6 +13,8 @@ classes:
   - Sorcerer
   - Warlock
   - Wizard
+  - Necromancer
+  - Witch
 source: Player's Handbook (2024)
 tags:
   - spell

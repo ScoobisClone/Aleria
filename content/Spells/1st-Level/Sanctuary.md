@@ -14,6 +14,7 @@ ritual: false
 classes:
   - Artificer
   - Cleric
+  - Martyr
 source: Player's Handbook (2024)
 tags:
   - spell

@@ -13,6 +13,8 @@ concentration: false
 ritual: false
 classes:
   - Cleric
+  - Investigator
+  - Martyr
 source: Player's Handbook (2024)
 tags:
   - spell

@@ -6,7 +6,7 @@ range: Touch
 components:
   - V
   - S
-material: 
+material:
 duration: Instantaneous
 concentration: false
 ritual: false
@@ -15,6 +15,10 @@ classes:
   - Paladin
   - Warlock
   - Wizard
+  - Investigator
+  - Martyr
+  - Necromancer
+  - Witch
 source: Player's Handbook (2024)
 tags:
   - spell

@@ -6,7 +6,7 @@ range: Touch
 components:
   - V
   - S
-material: 
+material:
 duration: Concentration, up to 1 hour
 concentration: true
 ritual: false
@@ -17,6 +17,7 @@ classes:
   - Ranger
   - Sorcerer
   - Wizard
+  - Martyr
 source: Player's Handbook (2024)
 tags:
   - spell

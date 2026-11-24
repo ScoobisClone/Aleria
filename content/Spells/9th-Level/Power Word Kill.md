@@ -5,7 +5,7 @@ casting_time: 1 action
 range: 60 feet
 components:
   - V
-material: 
+material:
 duration: Instantaneous
 concentration: false
 ritual: false
@@ -14,6 +14,7 @@ classes:
   - Sorcerer
   - Warlock
   - Wizard
+  - Necromancer
 source: Player's Handbook (2024)
 tags:
   - spell

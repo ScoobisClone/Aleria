@@ -17,6 +17,8 @@ classes:
   - Ranger
   - Sorcerer
   - Wizard
+  - Necromancer
+  - Witch
 source: Player's Handbook (2024)
 tags:
   - spell

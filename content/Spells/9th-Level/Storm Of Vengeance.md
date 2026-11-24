@@ -6,12 +6,13 @@ range: Sight
 components:
   - V
   - S
-material: 
+material:
 duration: Concentration, up to 1 minute
 concentration: true
 ritual: false
 classes:
   - Druid
+  - Necromancer
 source: Player's Handbook (2024)
 tags:
   - spell

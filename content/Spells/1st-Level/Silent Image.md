@@ -15,6 +15,7 @@ classes:
   - Bard
   - Sorcerer
   - Wizard
+  - Witch
 source: Player's Handbook (2024)
 tags:
   - spell

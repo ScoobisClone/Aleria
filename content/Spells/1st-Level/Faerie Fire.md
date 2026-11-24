@@ -5,7 +5,7 @@ casting_time: 1 action
 range: 60 feet
 components:
   - V
-material: 
+material:
 duration: Concentration, up to 1 minute
 concentration: true
 ritual: false
@@ -13,6 +13,7 @@ classes:
   - Artificer
   - Bard
   - Druid
+  - Witch
 source: Player's Handbook (2024)
 tags:
   - spell

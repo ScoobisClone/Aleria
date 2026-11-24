@@ -6,12 +6,13 @@ range: 120 feet
 components:
   - V
   - S
-material: 
+material:
 duration: Concentration, up to 10 minutes
 concentration: true
 ritual: false
 classes:
   - Druid
+  - Necromancer
 source: Player's Handbook (2024)
 tags:
   - spell
